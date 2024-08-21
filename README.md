@@ -182,23 +182,23 @@ En resumen, nuestra misión es facilitar la conexión entre clientes y abogados,
 
 ||Perfil|
 | - | - |
-| <img src="imagenes/Alessandro%20Perfil.png" alt="Alessandro" width="1000" height="180"> |**Condori Lozano, Alessandro Ramiro** <br> *Ingeniería de Software* <br> Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo.|
+| <img src="https://i.imgur.com/WJrkFy8.png" alt="Alessandro" width="1000" height="180"> |**Condori Lozano, Alessandro Ramiro** <br> *Ingeniería de Software* <br> Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo.|
 
 ||Perfil|
 | - | - |
-|<img src="imagenes/Jeanpierre%20Perfil.png" alt="JeanPierre" width="1000" height="180">|**La Madrid Lozano, Ivan Jeanpierre** <br> *Ingeniería de Software* <br> Tengo 20 años. En estos momentos me encuentro estudiando la carrera de Ing. de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios de programación y básicos en desarrollo web. Dicho esto, considero que soy una persona responsable que está en disposición de aportar al grupo.|
+|<img src="https://i.imgur.com/10nzkcz.png" alt="JeanPierre" width="1000" height="180">|**La Madrid Lozano, Ivan Jeanpierre** <br> *Ingeniería de Software* <br> Tengo 20 años. En estos momentos me encuentro estudiando la carrera de Ing. de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios de programación y básicos en desarrollo web. Dicho esto, considero que soy una persona responsable que está en disposición de aportar al grupo.|
 
 ||Perfil|
 | - | - |
-|<img src="imagenes/Jeremy Perfil.png" alt="Jeremy" width="1190" height="180">|**Paucar Meneses, Jeremy** <br> *Ingeniería de Software* <br> Tengo 22 años. En la actualidad estoy estudiando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Albergo conocimientos intermedios en algunos lenguajes de programación, tales como C++, JavaScript y Python. Me considero una persona responsable con disposición de apoyar al grupo, también me gustan mucho los retos y así mismo poder cumplirlos.|
+|<img src="https://i.imgur.com/A8V9p0K.png" alt="Jeremy" width="1190" height="180">|**Paucar Meneses, Jeremy** <br> *Ingeniería de Software* <br> Tengo 22 años. En la actualidad estoy estudiando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Albergo conocimientos intermedios en algunos lenguajes de programación, tales como C++, JavaScript y Python. Me considero una persona responsable con disposición de apoyar al grupo, también me gustan mucho los retos y así mismo poder cumplirlos.|
 
 ||Perfil|
 | - | - |
-|<img src="imagenes/Jimena Perfil.png" alt="Jimena" width="1000" height="180">|**Cossio Jimenez, Jimena Alessandra** <br> *Ingeniería de Software* <br> Tengo 20 años. En estos momentos me encuentro estudiando la carrera de Ing. de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios de programación y básicos en desarrollo web. Dicho esto, considero que soy una persona responsable que está en disposición de aportar al grupo.|
+|<img src="https://i.imgur.com/ObMgigR.png" alt="Jimena" width="1000" height="180">|**Cossio Jimenez, Jimena Alessandra** <br> *Ingeniería de Software* <br> Tengo 20 años. En estos momentos me encuentro estudiando la carrera de Ing. de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios de programación y básicos en desarrollo web. Dicho esto, considero que soy una persona responsable que está en disposición de aportar al grupo.|
 
 ||Perfil|
 | - | - |
-|<img src="imagenes/Jose%20Perfil.png" alt="Jose" width="1840" height="180">|**Pariona Lucas, Jose Manuel** <br> *Ingeniería de Software* <br> Tengo 20 años. En la actualidad me encuentro cursando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios en programación. Me considero una persona flexible, comprometida con lo que hago y dispuesta a apoyar a mis compañeros en todo lo que pueda.|
+|<img src="https://i.imgur.com/nNtnlel.png" alt="Jose" width="1010" height="180">|**Pariona Lucas, Jose Manuel** <br> *Ingeniería de Software* <br> Tengo 20 años. En la actualidad me encuentro cursando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios en programación. Me considero una persona flexible, comprometida con lo que hago y dispuesta a apoyar a mis compañeros en todo lo que pueda.|
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -269,7 +269,7 @@ El producto debe tener una interfaz intuitiva y amigable, proporcionar acceso r�
 
 #### 1.2.2.4. Lean UX Canvas
 
-![Canva](imagenes/Canva.PNG)
+![Canva](https://i.imgur.com/MFxXR0F.png)
 
 Link: https://miro.com/welcomeonboard/Q3BjUlhrajRPTkNhOGJGR1duVlk2Rk92UTNtQjY2Q2x5NVFTWkEzNlJUNHkxN3ptbTMxZUpHUms0N3R5cUpnM3wzNDU4NzY0NTkwMjkzNjIwNDE1fDI=?share_link_id=809745947453
 
