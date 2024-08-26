@@ -140,6 +140,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
   - [2.1 Competidores](#21-competidores)
+    - [2.1.1 Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2 Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
   - [2.2. Entrevistas](#22-entrevistas)
     - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
     - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
@@ -158,8 +160,17 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   - [3.4. Product Backlog](#34-product-backlog)
 - [Capítulo IV: Product Design](#capítulo-iv-product-design-1)
   - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1 General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2 Web Style Guidelines](#412-web-style-guidelines)
   - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1 Organization Systems](#421-organization-systems)
+    - [4.2.2 Labeling Systems](#422-labeling-systems)
+    - [4.2.3 SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4 Searching Systems](#424-searching-systems)
+    - [4.2.5 Navigation Systems](#425-navigation-systems)
   - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1 Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2 Landing Page Mock-up](#432-landing-page-mock-up)
   - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
     - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
     - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
@@ -207,7 +218,6 @@ Law Connect es un marketplace digital que conecta a personas que necesitan aseso
 Gracias a herramientas como videollamadas, chat en vivo y reuniones presenciales, podemos llegar a distintas partes del país, ofreciendo una plataforma accesible y eficiente. Además, en Law Connect nos comprometemos a apoyar a los abogados desempleados, conectándolos de manera efectiva con clientes potenciales.
 
 En resumen, nuestra misión es facilitar la conexión entre clientes y abogados, brindando apoyo a quienes enfrentan problemas legales y asegurando que todos tengan acceso a asesoría legal de calidad.
-
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -312,6 +322,8 @@ Abogados Calificados: Este grupo utiliza la plataforma para buscar oportunidades
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
+### 2.1.1 Análisis competitivo
+### 2.1.2 Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
@@ -325,13 +337,104 @@ Abogados Calificados: Este grupo utiliza la plataforma para buscar oportunidades
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
+En esta sección se presentan los To-Be Scenario Mapping para cada segmento objetivo donde se reflejarán, a partir de los As-is Scenario Mapping, la experiencia de usuario ideal si se resuelven los puntos de dolor y necesidades.
+
+**To-Be Scenario Mapping: Abogado**
+
+| **STEPS**   | **Difundiendo el servicio**                                                                                                                                                                                                       | **Contacto con el cliente**                                                            | **Proceso del servicio**                                                                                                                                                              | **Experiencia después del servicio**                                                                                                                 |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **DOING**   | Escucha por redes sociales que existe una aplicación específica para publicar sus servicios de abogado. Coloca fotos de casos resueltos con éxito. Registra su perfil, detallando sus habilidades y los servicios que ofrece. | Recibe notificaciones de un cliente interesado. Establece una comunicación fluida. | Mantiene un registro de los detalles del caso en cuestión. Comparte sus avances del caso por medio de la aplicación y da la información al cliente sobre como se podría resolver. | Pide al cliente si podría dejar una reseña en su perfil. Recibe el pago por el servicio. Lee las reseñas que le han dejado para ver como mejora. |
+| **THNKING** | "No está demás probar por este medio". "Espero conseguir mas clientes de esta forma"                                                                                                                                          | "Es más rápido comunicarme de esta forma con los clientes"                         | "Debo dar los mejor de mi para conseguir reseñas positivas"                                                                                                                       | "¿Cómo podría posicionarme mejor en la aplicación?". "Espero que más personas vean mi perfil"                                                    |
+| **FEELING** | Curioso por usar la nueva aplicación. Enfocado en cómo destacar.                                                                                                                                                              | Emocionado por contactar con un cliente. Confiado en brindar servicio de calidad.  | Calmado porque puedo administrar mejor mi tiempo.                                                                                                                                 | Motivado en conseguir aún mas clientes.                                                                                                          |
+
+**To-Be Scenario Mapping: Cliente**
+
+|  **STEPS**  |                                                                            **Identificar el problema**                                                                            |                                                                           **Contacto con el abogado**                                                                           |                                 **Proceso del servicio**                                 |                  **Experiencia después del servicio**                   |
+| :---------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+|  **DOING**  | Reconoce algún problema jurídico. Escucha por las redes sociales una aplicación donde puede buscar diferentes servicios para su caso. Abre la aplicación en el dispositivo móvil. | Se descarga la aplicación y se registra. Explora la lista de abogados que se ajusta sus necesidades. Contacta a un abogado en poco tiempo y establece detalles de la solicitud. | Es avisado que el abogado se encuentra disponible. El abogado negocia el servicio a dar. |     El cliente paga el servicio. Deja una reseña en la aplicación.      |
+| **THNKING** |                                                       ¿Cuánto tendré que gastar? "Necesito una solución rápida y efectiva."                                                       |                                                   "La aplicación se ve interesante.". "Fue rápido encontrar lo que buscaba."                                                    |        Fue muy cómodo". El trabajador es amable y explica las cosas con claridad.        | Voy a volver a usar la aplicación". "Estoy satisfecho con el resultado" |
+| **FEELING** |                                                                     Fastidiado por tener problemas jurídicos.                                                                     |                             Impresionado por la facilidad de encontrar y contactar con un abogado. Confiado por la comunicación fluida y efectiva.                              |          Satisfecho por la calidad. Impresionado por la facilidad del proceso.           |      Feliz por conseguir lo que buscaba. Confía en la aplicación.       |
+
 ## 3.2. User Stories
+
+**Epic 1: Landing page**
+
+| Epic / Story ID | Título                                        | Descripción                                                                                                                                                        | Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Relacionado con (Epic ID) |
+| :-------------: | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------: |
+|      E1US1      | Barra de navegación                           | Como cliente, quiero una barra de navegación adaptable a cualquier dispositivo para acceder a las secciones del landing page.                                      | Scenario El usuario se encuentra en dispositivo desktop<br>Given el usuario se encuentra en un dispositivo desktop<br>When se dirija a la barra de navegación<br>Then la barra de navegación está en versión desktop<br><br>Scenario El usuario se encuentra en móvil<br>Given el usuario se encuentra en un dispositivo móvil<br>When se dirija a la barra de navegación<br>Then la barra de navegación está en versión móvil                                                                                                                                               |             1             |
+|      E1US2      | Sección de categorías de servicios            | Como cliente, quiero visualizar algunas categorías que ofrece la aplicación para tener una idea sobre los servicios disponibles.                                   | Scenario El usuario visualiza la sección categorías y servicios<br>Given el usuario se encuentra en el landing page<br>When se dirige a la sección de categorías de servicios<br>Then se visualiza algunas categorías de servicios que ofrece la aplicación                                                                                                                                                                                                                                                                                                                  |             1             |
+|      E1US3      | Sección about y features                      | Como cliente, quiero una sección sobre el servicio y sus características para conocer más sobre la aplicación.                                                     | Scenario El usuario visualiza la sección about<br>Given el usuario se encuentra en el landing page<br>When se dirige a la sección de about<br>Then se visualiza la sección about<br><br>Scenario El usuario visualiza la sección features<br>Given el usuario se encuentra en sección about<br>When va bajando por la sección about<br>Then se visualiza la sección features                                                                                                                                                                                                 |             1             |
+|      E1US4      | Sección how it works                          | Como cliente, quiero una sección que muestre cómo funciona el servicio para entender los pasos a seguir para utilizar las características que ofrece la aplicación | Scenario El usuario visualiza la sección de how it works<br>Given el usuario se encuentra en el landing page<br>When se dirige a la sección de how it works<br>Then se visualiza cómo funciona la aplicación                                                                                                                                                                                                                                                                                                                                                                 |             1             |
+|      E1US5      | Sección de about the product y about the team | Como cliente, quiero una sección para conocer más acerca del producto y del equipo detrás del mismo.                                                               | Scenario El usuario visualiza la sección about the product y about the team<br>Given el usuario se encuentra en el landing page<br>When se dirige a la sección de about the product y about the team<br>Then se visualizan los videos de about the product y about the team<br><br>Scenario El usuario no visualiza los videos de la sección about the product y about the team<br>Given el usuario se encuentra en la sección de about the product y about the team<br>When los videos de la sección no se encuentran disponibles<br>Then se visualizan videos placeholders |             1             |
+|      E1US6      | Sección de footer                             | Como cliente, quiero un footer del landing page para acceder a links adicionales del landing page.                                                                 | Scenario El usuario visualiza la sección de footer<br>Given el usuario se encuentra en el landing page<br>When se dirige al footer de la aplicación<br>Then se visualizan algunos links adicionales del landing page<br>And se visualizan links a las redes sociales de la aplicación                                                                                                                                                                                                                                                                                        |             1             |
+
+**Epic 2: Autenticación y Registro de usuario**
+
+| Epic / Story ID | Título              | Descripción                                                                                       | Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Relacionado con (Epic ID) |
+| :-------------: | ------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------: |
+|      E2US1      | Registro de cuentas | Como cliente, quiero registrarme en la aplicación para acceder a las funcionalidades de la misma. | Scenario: Registro de cuentas con correo<br>Given que el usuario ingrese a la aplicación y esté en la sección de registro de cuenta<br>When escoja el tipo de usuario entre postulante o reclutador, ingrese datos de registro de cuenta y sean correctos según validaciones<br>Then la cuenta se creará y se envía un código de activación de cuenta a su correo<br><br>Scenario: Registro incorrecto<br>Given que el usuario ingrese a la aplicación y esté en la sección de registro de cuenta<br>When ingrese sus credenciales de manera incorrecta<br>Then la cuenta no se creará y aparece un mensaje que las credenciales están incorrectas |             2             |
+|      E2US2      | Inicio de sesión    | Como cliente, quiero iniciar sesión para acceder a las funcionalidades de la aplicación.          | Scenario: Inicio de sesión satisfactorio<br>Given el usuario se encuentre en el inicio de sesión<br>When ingrese sus credenciales correctos<br>Then inicia sesión en su cuenta<br><br>Scenario: Error en inicio de sesión<br>Given el usuario se encuentre en el inicio de sesión<br>When ingrese sus credenciales incorrectas<br>Then aparece un párrafo de que la cuenta que ha ingresado es incorrecta                                                                                                                                                                                                                                          |             2             |
+|      E2US3      | Cerrar sesión       | Como cliente, quiero cerrar mi sesión para mantener la seguridad de mi cuenta.                    | Scenario: Cerrar sesión con el perfil <br>Given el usuario visualiza la barra de navegación<br>When seleccione el perfil<br>And seleccione cerrar sesión <br>Then la sesión se cierra <br>And es redirigido al formulario de inicio de sesión. <br><br>Scenario: Cerrar sesión con el menú de ajustes <br>Given el usuario visualiza la barra de navegación<br>When seleccione ajustes <br>And seleccione cerrar sesión <br>Then la sesión se cierra <br>And es redirigido al formulario de inicio de sesión.                                                                                                                                      |             2             |
+
+**Epic 3: Gestión de Casos Legales**
+
+| Epic / Story ID | Título                                 | Descripción                                                                                                                        | Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Relacionado con (Epic ID) |
+| :-------------: | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------: |
+|      E3US1      | Creación y Gestión de Casos Legales    | Como usuario con problemas legales, quiero poder crear y gestionar casos legales en la aplicación.                                 | Scenario: Creación de un Nuevo Caso<br>Given el usuario necesita asesoramiento legal<br>When accede a la opción de crear un nuevo caso<br>Then puede ingresar los detalles del caso y crearlo<br><br>Scenario: Gestión de Casos Existente<br>Given el usuario tiene casos legales creados<br>When accede a la sección de "Mis Casos"<br>Then puede ver una lista de todos sus casos y gestionarlos según sea necesario                                                                    |             3             |
+|      E3US2      | Comunicación entre Usuarios y Abogados | Como usuario con problemas legales, quiero poder comunicarme con los abogados asignados a mis casos.                               | Scenario: Comunicación en el Chat del Caso<br>Given el usuario tiene un caso legal abierto<br>When accede al chat del caso correspondiente<br>Then puede enviar mensajes al abogado asignado y recibir respuestas<br><br>Scenario: Aceptación de Condiciones y Precio<br>Given el usuario ha discutido las condiciones y el precio con el abogado<br>When está satisfecho con los términos propuestos<br>Then puede aceptarlos y proceder con la asesoría legal                           |             3             |
+|      E3US3      | Historial y Seguimiento de Casos       | Como usuario con problemas legales, quiero poder ver un historial de todos mis casos y su estado actual.                           | Scenario: Visualización de Historial de Casos<br>Given el usuario quiere revisar su historial de casos<br>When accede a la sección de historial de casos<br>Then puede ver una lista de todos los casos anteriores con detalles de su estado actual<br><br>Scenario: Actualización de Estado del Caso<br>Given el estado de un caso ha cambiado<br>When el abogado actualiza el estado del caso<br>Then el usuario recibe una notificación y puede ver el cambio en el historial de casos |             3             |
+|      E3US4      | Notificaciones de Mensajes en Casos    | Como usuario con problemas legales, quiero recibir notificaciones cada vez que el abogado o cliente escribe un mensaje en el caso. | Scenario: Recepción de Notificaciones<br>Given the user is involved in a legal case<br>When either the lawyer or the client sends a message within the case chat<br>Then the user receives a notification informing them of the new message                                                                                                                                                                                                                                               |             3             |
+
+**Epic 4: Gestión y Visualización de Perfil**
+
+| Epic / Story ID | Título                                   | Descripción                                                                                                                                                                    | Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Relacionado con (Epic ID) |
+| :-------------: | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-----------------------: |
+|      E4US1      | Edición de Perfil de Abogado             | Como abogado, quiero poder editar los detalles de mi perfil en LawConnect para mantener actualizada mi información profesional y personal.                                     | Scenario: Edición de Detalles Personales<br>Given que un abogado desea actualizar su información en LawConnect<br>When accede a la sección de edición de perfil<br>Then puede modificar campos como nombre, apellido, dirección y número de teléfono<br><br>Scenario: Actualización de Detalles Profesionales<br>Given que un abogado desea actualizar su información profesional en LawConnect<br>When accede a la sección de edición de perfil<br>Then puede editar campos como área de especialización, experiencia laboral y educación |             4             |
+|      E4US2      | Visualización de Perfiles de Abogados    | Como usuario en busca de asesoramiento legal, quiero poder ver los perfiles detallados de los abogados en LawConnect para tomar decisiones informadas sobre a quién contactar. | Scenario: Visualización de Detalles del Perfil de Abogado<br>Given que un usuario está buscando un abogado en LawConnect<br>When accede a la sección de perfiles de abogados<br>Then puede ver información detallada sobre cada abogado, incluyendo su área de especialización, experiencia laboral, casos ganados y cualquier otra información relevante                                                                                                                                                                                  |             4             |
+|      E4US3      | Búsqueda de Perfil de Abogado por Nombre | Como usuario en busca de asesoramiento legal, quiero poder buscar abogados por su nombre en LawConnect para encontrar a un profesional específico.                             | Scenario: Búsqueda por Nombre de Abogado<br>Given que un usuario desea encontrar a un abogado específico en LawConnect<br>When utiliza la función de búsqueda e ingresa el nombre del abogado<br>Then se muestran los perfiles de los abogados que coinciden con el nombre proporcionado                                                                                                                                                                                                                                                   |             4             |
+|      E4US4      | Edición de Perfil de Usuario             | Como usuario con problemas legales, quiero poder editar mi perfil en LawConnect para mantener actualizada mi información personal.                                             | Scenario: Edición de Detalles Personales<br>Given que un usuario desea actualizar su información en LawConnect<br>When accede a la sección de edición de perfil<br>Then puede modificar campos como nombre, apellido, dirección y número de teléfono                                                                                                                                                                                                                                                                                       |             4             |
+
 ## 3.3. Impact Mapping
+
+Se busca inicialmente mejorar la comunicación entre abogados y clientes, con este último tomando la iniciativa al buscar en la plataforma al abogado que mejor se ajuste a sus necesidades. La plataforma proporciona información sobre la calificación promedio y comentarios del abogado en su perfil, y luego el cliente puede reservar una cita según su conveniencia. También se busca impulsar el crecimiento laboral de los abogados. La plataforma ofrece una sección de perfil donde los abogados pueden detallar sus casos resueltos y servicios ofrecidos. Los clientes tienen la opción de calificar y comentar el servicio recibido, lo que incentiva a los abogados a brindar un servicio de calidad.
+
+![Imgur](https://i.imgur.com/Nrk6xvH.png)
 ## 3.4. Product Backlog
+
+| **Orden** | **Epic**                            | **User Story ID** | **Título**                                    | **Descripción**                                                                                                                                                                | **Story Points** |
+| :-------: | :---------------------------------- | :---------------: | :-------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
+|   **1**   | Landing Page                        |       E1US1       | Barra de navegación                           | Como cliente, quiero una barra de navegación adaptable a cualquier dispositivo para acceder a las secciones del landing page.                                                  |        1         |
+|   **2**   | Landing Page                        |       E1US2       | Sección de categorías de servicios            | Como cliente, quiero visualizar algunas categorías que ofrece la aplicación para tener una idea sobre los servicios disponibles.                                               |        1         |
+|   **3**   | Landing Page                        |       E1US3       | Sección about y features                      | Como cliente, quiero una sección sobre el servicio y sus características para conocer más sobre la aplicación.                                                                 |        1         |
+|   **4**   | Landing Page                        |       E1US4       | Sección how it works                          | Como cliente, quiero una sección que muestre cómo funciona el servicio para entender los pasos a seguir para utilizar las características que ofrece la aplicación             |        1         |
+|   **5**   | Landing Page                        |       E1US5       | Sección de about the product y about the team | Como cliente, quiero una sección para conocer más acerca del producto y del equipo detrás del mismo.                                                                           |        1         |
+|   **6**   | Landing Page                        |       E1US6       | Sección de footer                             | Como cliente, quiero un footer del landing page para acceder a links adicionales del landing page.                                                                             |        1         |
+|   **7**   | Autenticación y Registro de usuario |       E2US1       | Registro de cuentas                           | Como cliente, quiero registrarme en la aplicación para acceder a las funcionalidades de la misma.                                                                              |        2         |
+|   **8**   | Autenticación y Registro de usuario |       E2US2       | Inicio de sesión                              | Como cliente, quiero iniciar sesión para acceder a las funcionalidades de la aplicación.                                                                                       |        2         |
+|   **9**   | Autenticación y Registro de usuario |       E2US3       | Cerrar sesión                                 | Como cliente, quiero cerrar mi sesión para mantener la seguridad de mi cuenta.                                                                                                 |        2         |
+|  **10**   | Gestión de Casos Legales            |       E3US1       | Creación y Gestión de Casos Legales           | Como usuario con problemas legales, quiero poder crear y gestionar casos legales en la aplicación.                                                                             |        3         |
+|  **11**   | Gestión de Casos Legales            |       E3US2       | Comunicación entre Usuarios y Abogados        | Como usuario con problemas legales, quiero poder comunicarme con los abogados asignados a mis casos.                                                                           |        3         |
+|  **12**   | Gestión de Casos Legales            |       E3US3       | Historial y Seguimiento de Casos              | Como usuario con problemas legales, quiero poder ver un historial de todos mis casos y su estado actual.                                                                       |        3         |
+|  **13**   | Gestión de Casos Legales            |       E3US4       | Notificaciones de Mensajes en Casos           | Como usuario con problemas legales, quiero recibir notificaciones cada vez que el abogado o cliente escribe un mensaje en el caso.                                             |        3         |
+|  **14**   | Gestión y Visualización de Perfil   |       E4US1       | Edición de Perfil de Abogado                  | Como abogado, quiero poder editar los detalles de mi perfil en LawConnect para mantener actualizada mi información profesional y personal.                                     |        4         |
+|  **15**   | Gestión y Visualización de Perfil   |       E4US2       | Visualización de Perfiles de Abogados         | Como usuario en busca de asesoramiento legal, quiero poder ver los perfiles detallados de los abogados en LawConnect para tomar decisiones informadas sobre a quién contactar. |        4         |
+|  **16**   | Gestión y Visualización de Perfil   |       E4US3       | Búsqueda de Perfil de Abogado por Nombre      | Como usuario en busca de asesoramiento legal, quiero poder buscar abogados por su nombre en LawConnect para encontrar a un profesional específico.                             |        4         |
+|  **17**   | Gestión y Visualización de Perfil   |       E4US4       | Edición de Perfil de Usuario                  | Como usuario con problemas legales, quiero poder editar mi perfil en LawConnect para mantener actualizada mi información personal.                                             |        4         |
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+### 4.1.1 General Style Guidelines
+### 4.1.2 Web Style Guidelines
 ## 4.2. Information Architecture
+### 4.2.1 Organization Systems
+### 4.2.2 Labeling Systems
+### 4.2.3 SEO Tags and Meta Tags
+### 4.2.4 Searching Systems
+### 4.2.5 Navigation Systems
 ## 4.3. Landing Page UI Design
+### 4.3.1 Landing Page Wireframe
+### 4.3.2 Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
@@ -350,37 +453,34 @@ Abogados Calificados: Este grupo utiliza la plataforma para buscar oportunidades
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
-
 ### 5.1.2. Source Code Management
-
 ### 5.1.3. Source Code Style Guide & Conventions
-
 ### 5.1.4. Software Deployment Configuration
-
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
-
 #### 5.2.1.2. Sprint Backlog 1
-
 #### 5.2.1.3. Development Evidence for Sprint Review
-
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-
 #### 5.2.1.5. Execution Evidence for Sprint Review
-
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
 ### Conclusiones y recomendaciones
+- La implementación de plataformas colaborativas como Discord, Github y Trello optimizó de manera notable la comunicación y coordinación del equipo, promoviendo un progreso eficiente del proyecto.
+- Las entrevistas realizadas a los usuarios revelaron una respuesta favorable hacia la interfaz intuitiva de la aplicación, subrayando tanto su facilidad de uso como su funcionalidad clara y eficiente.
 ### Video About-the-Team
 
 ---
 # Bibliografía
+- App recomendada: Abogado Ágil | Microjuris Argentina al Día. (2018, August 30). AL DÍA | ARGENTINA. https://aldiaargentina.microjuris.com/2018/08/30/app-recomendada-abogado-agil/
+- Home - LegalHelp. (2023, November 30). LegalHelp. https://legalhelp.pe/
+Soporte Xubium. (2021, December 9). Abogado: Haga crecer su negocio | Linkea tu Abogado. Linkea Tu Abogado. https://linkeatuabogado.com/marketing-para-abogados/
+- Vallecilla, C. (21 de marzo del 2024). El desempleo en Perú dic. 2023 - feb. 2024 no varió, pero se recuperaron casi 640 mil empleos. tyba- ¡La app de las inversiones en el Perú! https://tyba.pe/blog/tasa-de-desempleo-en-peru-dic-2023-feb-2024/
 
 ---
 # Anexos
+- Link a los esquemas en Figma - Landing Page: https://www.figma.com/design/khfydyhKAfHsBwvOYVAqXY/WEB---OPEN---TRABAJO-FINAL?node-id=48-106&t=ZNma6PcQiAmJraK7-1
+- Link a los esquemas en Figma - Web Application: https://www.figma.com/design/q0YtVInNQKAmcOW8yNS6Co/Web-Application---Open-y-Web---TF?node-id=1-34&t=ZNma6PcQiAmJraK7-1
