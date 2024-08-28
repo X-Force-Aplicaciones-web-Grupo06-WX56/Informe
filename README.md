@@ -465,7 +465,7 @@ Se busca inicialmente mejorar la comunicación entre abogados y clientes, con es
 
 **Branding**: El logo de la aplicación trata de una balanza egipcia el cual es un símbolo de la justicia moderna .Esta balanza representa la igualdad con que la justicia trata a todos. El texto de LAW CONNECT traducido al español es conectar abogados , esto se debe a que la aplicación es para contratar abogados para casos específicos que se requiera.
 
-![Logo](https://imgur.com/a/5oZkAIi.png)
+![Logo](https://imgur.com/NbtuDyB.png)
 
 **Typography**: La fuente que se ha utilizado es Franklin Gothic Heavy en su versión Italic
 Colors: Los colores que se utilizaron son el tono violeta y el amarillo saturado.
@@ -484,15 +484,53 @@ Colors: Los colores que se utilizaron son el tono violeta y el amarillo saturado
 
 ## 4.2. Information Architecture
 
+En esta sección nos enfocaremos en el contenido visual, los estilos y los elementos que se tendrán en cuenta para nuestra aplicación web y landing page de Law Connect. A continuación, exploraremos los temas de Sistemas de Organización, Sistemas de Etiquetado, Etiquetas de SEO y Metaetiquetas, Sistemas de Búsqueda y Sistemas de Navegación.
+
 ### 4.2.1 Organization Systems
+
+Para los sistemas de organización, hemos decidido considerar la estructuración del contenido con un encabezado (header) donde las secciones a las que el usuario puede acceder se agrupen de manera clara. De esta forma, el usuario sabrá dónde hacer clic para acceder a las secciones correspondientes de Law Connect.
+
+**● Organización Visual del Contenido (Visual Hierarchy):** Vamos a emplear una disposición visual jerarquizada para destacar los datos más importantes y facilitar la navegación de los usuarios. Esto se verá reflejado en la presentación de los vehículos disponibles, las tarifas y las opiniones de otros usuarios.
+
+**● Organización Secuencial (Step-by-Step to Accomplish):** Implementaremos una secuencia lógica para orientar a los usuarios a través de procesos clave, como la reserva de un vehículo o la inscripción en la plataforma. Esto asegura que los usuarios puedan completar las tareas de forma intuitiva.
+
+**● Organización Matricial (Matrix Organization):** Utilizaremos una estructura matricial para mostrar comparaciones entre diferentes opciones, como la disponibilidad de vehículos en distintas ubicaciones y fechas. Esto permitirá a los usuarios tomar decisiones fundamentadas.
 
 ### 4.2.2 Labeling Systems
 
+Dentro de Law Connect , los sistemas de etiquetado desempeñan una función crucial en la organización y accesibilidad de la información en nuestra plataforma. Estos nombres aparecen en enlaces, menús, pie de página y encabezados que señalan la jerarquía de la información. Son vitales para facilitar la navegación de los usuarios por nuestro sitio web y para que encuentren la información que están buscando de manera sencilla.
+Las etiquetas que emplearemos deben considerar las implicaciones de SEO, lo que implica cumplir con los siguientes objetivos:
+
+**1. Experiencia de Usuario (UX):** Las etiquetas deben ofrecer información y contexto claro para que los usuarios comprendan la función de los elementos etiquetados.
+
+**2. SEO:** Se utilizará el etiquetado interno para vincular las páginas de Law Connect de manera coherente, mejorando así la optimización de motores de búsqueda.
+
+**3. Palabras Clave y Etiquetado Adecuado:** Cada página de Law Connect contendrá palabras clave pertinentes y un etiquetado adecuado para distribuir los términos de forma efectiva y evitar la competencia interna entre páginas.
+
+**4. Impacto de las Etiquetas en Menús y Bloques Estáticos:** Reconocemos que las palabras clave en los menús y bloques estáticos tienen un mayor impacto en la navegación y visibilidad de Law Connect.
+
 ### 4.2.3 SEO Tags and Meta Tags
+
+En Law Connect, reconocemos la importancia de optimizar nuestras páginas tanto en la Landing Page como en la Aplicación Web para mejorar la visibilidad en los motores de búsqueda y proporcionar una experiencia de usuario excepcional. A continuación, se describen los principales SEO Tags y Meta Tags que utilizaremos, junto con los valores asignados:
+
+**● Title (Título):** El título de una página es fundamental tanto para los motores de búsqueda como para los usuarios. Implementaremos títulos descriptivos y atractivos para cada página, los cuales reflejarán claramente su contenido y propósito.
+
+**● Meta Tags de Descripción (Meta Description):** Los meta descripciones son breves resúmenes que se muestran en los resultados de búsqueda. Implementaremos meta descripciones claras y concisas que incentiven a los usuarios a hacer clic en nuestro sitio. Por ejemplo una meta descripción podría ser :”Descubre la forma mas sencilla de resolver tus problema con Law Connect”.
+
+**● Meta Keywords:** Aunque el enfoque en las palabras clave ha evolucionado en el ámbito del SEO, aún consideraremos términos relevantes para cada página y los incluiremos en los meta tags de keywords cuando sea pertinente. Esto ayudará a los motores de búsqueda a comprender mejor el contenido de nuestras páginas y mejorar la relevancia.
+
+**● Meta Author Tag:** Utilizaremos el meta tag de autor para identificar al creador o autor del contenido, lo cual puede contribuir a establecer credibilidad y autoridad en la industria.
 
 ### 4.2.4 Searching Systems
 
+En Law Connect, hemos creado un sistema de búsqueda completo para facilitar a los usuarios la búsqueda eficiente del vehículo de alquiler que mejor se ajuste a sus necesidades. A continuación, detallamos cómo hemos diseñado nuestro sistema de búsqueda para evitar que los usuarios se sientan abrumados por la cantidad de información y cómo se presentarán los datos después de realizar la búsqueda.
+**Opciones de Búsqueda:**
+Proporcionamos a nuestros usuarios dos alternativas de búsqueda para adaptar su experiencia según sus preferencias individuales. Estas alternativas abarcan desde la búsqueda por nombre y por especialidad. Esto capacita a los usuarios para afinar su búsqueda de acuerdo con sus preferencias particulares.
+![Busqueda](https://imgur.com/XdzXreW.png)
+
 ### 4.2.5 Navigation Systems
+
+El visitante o usuario dentro de nuestra landing page podrán explorar el contenido mediante la barra de desplazamiento ubicada en la parte derecha. Además, los encabezados funcionan como botones que ayudan a explorar la página de manera más precisa. Esto ayuda a que nuestro sitio web tenga una interacción intuitiva y simple.
 
 ## 4.3. Landing Page UI Design
 
