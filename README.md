@@ -465,16 +465,22 @@ Se busca inicialmente mejorar la comunicación entre abogados y clientes, con es
 
 **Branding**: El logo de la aplicación trata de una balanza egipcia el cual es un símbolo de la justicia moderna .Esta balanza representa la igualdad con que la justicia trata a todos. El texto de LAW CONNECT traducido al español es conectar abogados , esto se debe a que la aplicación es para contratar abogados para casos específicos que se requiera.
 
-![Logo](https://imgur.com/a/5oZkAIi)
+![Logo](https://imgur.com/a/5oZkAIi.png)
 
 **Typography**: La fuente que se ha utilizado es Franklin Gothic Heavy en su versión Italic
 Colors: Los colores que se utilizaron son el tono violeta y el amarillo saturado.
 
-![Colors](https://imgur.com/sFbXIO4)
+![Colors](https://imgur.com/sFbXIO4.png)
 
 **Dimensión**: La dimensión que se adapto en cuanto al diseño es un tono formal y aplicando colores profesionales como el violeta presentado y un tono entusiasta con colores amarillos. Asimismo, para el diseño de los íconos y formas adoptaremos diseños simples y elegantes, como por ejemplo podemos agregar el color gris para resaltar la elegancia.
 
 ### 4.1.2 Web Style Guidelines
+
+● Se utilizará la tendencia web de functional minimalism con el color blanco como predominante en el fondo de la mayoría de las secciones para brindar una visualización limpia y contraste de los elementos.
+
+● Por otro lado, se emplearán moderadamente colores grises en algunas secciones para resaltar algunas secciones como botones .
+
+● Implementaremos un diseño adaptable (Web Responsive Design) que tiene como finalidad mostrar la información de manera óptima en cualquier tipo de dispositivo.
 
 ## 4.2. Information Architecture
 
