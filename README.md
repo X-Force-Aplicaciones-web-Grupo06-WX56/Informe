@@ -556,15 +556,20 @@ Se ha implementado una barra de navegación en la parte superior de la web la cu
 Los beneficios y los casos que emiten nuestros abogados para ayudar a las personas
 
 ![png2](https://imgur.com/b9gP5Fj.png)
+
 Contará con una sección donde los clientes podrán visualizar los testimonios de otras clientes que están felices por el buen trabajo.
+
 ![png3](https://imgur.com/fZAWDNJ.png)
+
 Finalmente al final tendra una seccion de footer con unos links
+
 ![png4](https://imgur.com/BEdzUMX.png)
 
 ### 4.3.2 Landing Page Mock-up
 
 En esta sección se ha implementado el mockup como a ido implementado nuestro landing page.
 Link:
+
 [mockup-landingPage](https://www.figma.com/proto/a3z0aRFqQVqKPjFcuimYdq/LawConnect_2024?type=design&node-id=4650-421&t=H12gS3TKtwaJOy6l-0&scaling=min-zoom&page-id=4629%3A5273)
 
 ![png1](https://imgur.com/Y5VMZCC.png)
