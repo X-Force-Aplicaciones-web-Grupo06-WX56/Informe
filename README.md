@@ -536,7 +536,48 @@ El visitante o usuario dentro de nuestra landing page podrán explorar el conten
 
 ### 4.3.1 Landing Page Wireframe
 
+En Law Connect, hemos desarrollado un sistema de navegación intuitivo y efectivo que dirige a nuestros usuarios a través de nuestra Landing Page y aplicaciones, ayudándoles a alcanzar sus objetivos e interactuar de manera satisfactoria con nuestro producto. A continuación, detallamos cómo los usuarios podrán explorar nuestro contenido:
+
+**Barra de Navegación:**
+Se ha implementado una barra de navegación en la parte superior de la web la cual tiene 4 opciones :
+**● Inicio:** Aquí el usuario podrá acceder al inicio principal de la web , en donde encontrará la información más reciente que haya recibido o realizado.
+
+**● Notificaciones:** Aquí el usuario puede recibir información sobre su caso en cuestión.
+
+**● Buscar:** Aquí el usuario podrá hacer la búsqueda del abogado que desea contratar .
+
+**● Casos:** Aquí el usuario podrá ver los casos que ha creado de acuerdo a sus necesidades.
+
+**Figma del landing Page LawConnect:**
+[Figma-landingPage](https://www.figma.com/file/a3z0aRFqQVqKPjFcuimYdq/LawConnect_2024?type=design&node-id=4647-147&mode=design&t=H12gS3TKtwaJOy6l-0)
+
+![png1](https://imgur.com/ZVz6go9.png)
+
+Los beneficios y los casos que emiten nuestros abogados para ayudar a las personas
+
+![png2](https://imgur.com/b9gP5Fj.png)
+Contará con una sección donde los clientes podrán visualizar los testimonios de otras clientes que están felices por el buen trabajo.
+![png3](https://imgur.com/fZAWDNJ.png)
+Finalmente al final tendra una seccion de footer con unos links
+![png4](https://imgur.com/BEdzUMX.png)
+
 ### 4.3.2 Landing Page Mock-up
+
+En esta sección se ha implementado el mockup como a ido implementado nuestro landing page.
+Link:
+[mockup-landingPage](https://www.figma.com/proto/a3z0aRFqQVqKPjFcuimYdq/LawConnect_2024?type=design&node-id=4650-421&t=H12gS3TKtwaJOy6l-0&scaling=min-zoom&page-id=4629%3A5273)
+
+![png1](https://imgur.com/Y5VMZCC.png)
+
+![png2](https://imgur.com/iyQlvrX.png)
+
+![png3](https://imgur.com/Qp9PRdp.png)
+
+![png4](https://imgur.com/ramrekp.png)
+
+![png5](https://imgur.com/VoPKrzj.png)
+
+![png6](https://imgur.com/YtBRXnz.png)
 
 ## 4.4. Web Applications UX/UI Design
 
