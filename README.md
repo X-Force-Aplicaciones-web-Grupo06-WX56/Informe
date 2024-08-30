@@ -588,11 +588,114 @@ Link:
 
 ### 4.4.1. Web Applications Wireframes
 
+![png1](https://imgur.com/ebE5M1E.png)
+
+![png2](https://imgur.com/hDfEueO.png)
+
+![png3](https://imgur.com/wyfnrvg.png)
+
+![png4](https://imgur.com/Pml7QcY.png)
+
+![png5](https://imgur.com/I40jXVU.png)
+
+![png6](https://imgur.com/0VZBcGS.png)
+
+![png7](https://imgur.com/TO8VJ4W.png)
+
+![png8](https://imgur.com/ZoDgyS6.png)
+
+![png9](https://imgur.com/yy22KAX.png)
+
+![png10](https://imgur.com/f0bWTps.png)
+
+![png11](https://imgur.com/UqkjBFa.png)
+
+![png12](https://imgur.com/BSIomhC.png)
+
+![png13](https://imgur.com/EXi0XKr.png)
+
+![png14](https://imgur.com/jx4nkE9.png)
+
+![png15](https://imgur.com/t3GuKc5.png)
+
+![png16](https://imgur.com/tH9HpDQ.png)
+
+![png17](https://imgur.com/iKC71FJ.png)
+
+![png18](https://imgur.com/p0ybmPB.png)
+
+![png19](https://imgur.com/iVsj545.png)
+
+![png20](https://imgur.com/cVmP52K.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+**Inicio de Sesión**
+![png1](https://imgur.com/HF2hLgm.png)
+
+**Sección Casos**
+![png2](https://imgur.com/mmeURuA.png)
+
+**Sección Perfil**
+![png3](https://imgur.com/UhX9i41.png)
+
+**Sección Suscripción**
+![png4](https://imgur.com/C3bAzQj.png)
+
+**Sección Buscar Abogado**
+![png5](https://imgur.com/QYDFmn6.png)
+
+**Sección Contratar Abogado**
+![png6](https://imgur.com/yb9U4IG.png)
+
+**Sección Notificaciones**
+![png7](https://imgur.com/p3QYHWJ.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
+**Iniciar sesión en LawConnect**
+![png1](https://imgur.com/gNEx9gx.png)
+
+**Ver Sección de Casos**
+![png2](https://imgur.com/9hkXmtV.png)
+
+**Ver Sección de Notificaciones**
+![png3](https://imgur.com/M8T0wOH.png)
+
+**Ver Sección de Perfil**
+![png4](https://imgur.com/ffgOUZU.png)
+
+**Ver Sección Pago de Suscripción**
+![png5](https://imgur.com/xv1Njr0.png)
+
+**Ver Sección de Buscar Abogado**
+![png6](https://imgur.com/fsCDMru.png)
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+**“Ambos Segmentos objetivos podrán iniciar sesión en la aplicación, si los datos introducidos son incorrectos, deberán volver a intentar el inicio de sesión”**
+
+![png1](https://imgur.com/MUaZgiC.png)
+
+**“El cliente podrá visualizar sus últimas casos en los que se encuentra y podrá comunicarse con el abogado presionando la sección del caso”**
+
+![png2](https://imgur.com/HyA8ML3.png)
+
+**“Ambos Segmentos objetivos podrán visualizar sus últimas notificaciones de los casos en los que se encuentran”**
+
+![png3](https://imgur.com/QooOg8B.png)
+
+**“Según el tipo de cliente, ya sea abogado o cliente, podrán editar su perfil ”**
+
+![png4](https://imgur.com/AUpYnxG.png)
+
+**“El abogado para empezar a recibir clientes, deberá comprar una subscripción mensual, depende de la suscripción recibirá ”**
+
+![png5](https://imgur.com/UMmsHOr.png)
+
+**“El cliente desea buscar a un abogado, ya sea por un nombre o por especialidad”**
+
+![png6](https://imgur.com/UmskfMT.png)
 
 ## 4.5. Web Applications Prototyping
 
