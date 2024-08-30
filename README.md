@@ -631,44 +631,57 @@ Link:
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 **Inicio de Sesión**
+
 ![png1](https://imgur.com/HF2hLgm.png)
 
 **Sección Casos**
+
 ![png2](https://imgur.com/mmeURuA.png)
 
 **Sección Perfil**
+
 ![png3](https://imgur.com/UhX9i41.png)
 
 **Sección Suscripción**
+
 ![png4](https://imgur.com/C3bAzQj.png)
 
 **Sección Buscar Abogado**
+
 ![png5](https://imgur.com/QYDFmn6.png)
 
 **Sección Contratar Abogado**
+
 ![png6](https://imgur.com/yb9U4IG.png)
 
 **Sección Notificaciones**
+
 ![png7](https://imgur.com/p3QYHWJ.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
 **Iniciar sesión en LawConnect**
+
 ![png1](https://imgur.com/gNEx9gx.png)
 
 **Ver Sección de Casos**
+
 ![png2](https://imgur.com/9hkXmtV.png)
 
 **Ver Sección de Notificaciones**
+
 ![png3](https://imgur.com/M8T0wOH.png)
 
 **Ver Sección de Perfil**
+
 ![png4](https://imgur.com/ffgOUZU.png)
 
 **Ver Sección Pago de Suscripción**
+
 ![png5](https://imgur.com/xv1Njr0.png)
 
 **Ver Sección de Buscar Abogado**
+
 ![png6](https://imgur.com/fsCDMru.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
