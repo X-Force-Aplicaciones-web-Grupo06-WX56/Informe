@@ -722,9 +722,15 @@ Link:
 
 ### 4.6.1. Software Architecture Context Diagram
 
+![contextDiagram](https://imgur.com/RMamfio.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
 
+![contentDiagram](https://imgur.com/DPivizq.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+![componentDiagram](https://imgur.com/f5d2jo4.png)
 
 ## 4.7. Software Object-Oriented Design
 
