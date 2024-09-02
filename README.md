@@ -712,6 +712,12 @@ Link:
 
 ## 4.5. Web Applications Prototyping
 
+![png1](https://imgur.com/qZkKeoY.png)
+
+![png2](https://imgur.com/Dyu4Cur.png)
+
+![png3](https://imgur.com/WbhqC9r.png)
+
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
