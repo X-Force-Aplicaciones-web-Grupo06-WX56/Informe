@@ -736,7 +736,152 @@ Link:
 
 ### 4.7.1. Class Diagrams
 
+![ClassDiagram](https://imgur.com/6sWyb9I.png)
+
 ### 4.7.2. Class Dictionary
+
+User (Class)
+Description: Represents a generic user who can be either a lawyer or a client.
+
+Attributes:
+
+- id: int – Unique identifier for the user.
+- name: String – Full name of the user.
+- email: String – Email address of the user.
+- password: String – Password for user authentication.
+
+Methods:
+
+- register() – Method for the user to register on the platform.
+- login() – Method for the user to log in.
+- updateProfile() – Method to update the user’s profile information.
+
+Profile (Class)
+Description: Contains personal information of the user.
+
+Attributes:
+
+- address: String – Physical address of the user.
+- phone: String – Phone number of the user.
+- birthDate: Date – Date of birth of the user.
+- userType: UserType – Defines whether the user is a lawyer or a client.
+
+Methods:
+
+- updateInformation() – Allows updating the user’s profile information.
+
+Lawyer (Class)
+Description: Represents lawyers in the system and extends from the User class.
+
+Attributes:
+
+- specialties: List<Specialty> – List of legal specialties the lawyer has.
+- averageRating: double – Average rating based on client reviews.
+
+Methods:
+
+- updateSpecialties() – Allows the lawyer to update their specialties.
+- viewRatings() – Method for the lawyer to view their ratings and comments.
+
+Client (Class)
+Description: Represents clients who have legal issues and extends from the User class.
+
+Attributes:
+
+- legalCases: List<LegalCase> – List of legal cases the client has created or is involved in.
+
+Methods:
+
+- contactLawyer(Lawyer lawyer) – Method for the client to contact a lawyer.
+- rateLawyer(Lawyer lawyer, int rating) – Method for the client to rate a lawyer.
+
+Specialty (Class)
+Description: Represents areas of expertise for lawyers.
+
+Attributes:
+
+- id: int – Unique identifier for the specialty.
+- name: String – Name of the legal specialty (e.g., Criminal Law).
+
+Methods:
+
+- getLawyersBySpecialty() – Method to return a list of lawyers with this specialty.
+
+LegalCase (Class)
+Description: Represents a legal case on the platform.
+
+Attributes:
+
+- id: int – Unique identifier for the legal case.
+- description: String – Description of the legal case.
+- type: LegalCaseType – Type of legal case (Civil, Criminal, Family, etc.).
+
+Methods:
+
+- createLegalCase() – Method to create a new legal case.
+- updateLegalCase() – Method to update an existing legal case.
+
+LegalCaseType (Enum)
+Description: Enumerates possible types of legal cases.
+
+Values:
+
+- CIVIL – Civil law cases.
+- CRIMINAL – Criminal law cases.
+- FAMILY – Family law cases.
+- LABOR – Labor law cases.
+
+Rating (Class)
+Description: Represents a rating and comment left by a client for a lawyer.
+
+Attributes:
+
+- id: int – Unique identifier for the rating.
+- score: int – Rating score (usually between 1 and 5).
+- comment: String – Additional comment about the lawyer.
+- date: Date – Date the rating was left.
+
+Methods:
+
+- rateLawyer() – Method to allow the client to rate the lawyer.
+- viewRatings() – Allows viewing the lawyer’s ratings and comments.
+
+Notification (Class)
+Description: Represents notifications sent to users.
+
+Attributes:
+
+- id: int – Unique identifier for the notification.
+- message: String – The content of the notification message.
+- date: Date – Date the notification was sent.
+
+Methods:
+
+- sendNotification() – Method to send a notification to a user.
+- markAsRead() – Method to mark the notification as read.
+
+Contract (Class)
+Description: Represents a contract between a client and a lawyer.
+
+Attributes:
+
+- id: int – Unique identifier for the contract.
+- startDate: Date – The start date of the contract.
+- endDate: Date – The end date of the contract.
+- amount: double – The agreed-upon amount in the contract.
+
+Methods:
+
+- createContract() – Method to generate a new contract between the client and lawyer.
+- terminateContract() – Method to terminate an active contract.
+
+UserType (Enum)
+Description: Enumerates user types.
+
+Values:
+
+- LAWYER – The user is a lawyer.
+- CLIENT – The user is a client.
 
 ## 4.8. Database Design
 
