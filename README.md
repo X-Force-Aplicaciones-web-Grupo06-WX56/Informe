@@ -270,7 +270,35 @@ Referencia: https://specflow.org/gherkin/gherkin-conventions-for-readable-specif
 #### 5.2.1.2. Sprint Backlog 1
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+En este sprint todavía no se desarrolla el Testing, solo la landing page
 #### 5.2.1.5. Execution Evidence for Sprint Review
+Por este primer sprint, se muestra las capturas de la landing page
+
+## Home
+
+<td><img src="/assets/home.png" alt="Imagen del home" width="1500"></td>
+
+## About Us
+
+<td><img src="/assets/aboutUs.png" alt="Imagen del about us 1" width="1500"></td>
+<td><img src="/assets/aboutUs2.png" alt="Imagen del about us 2" width="1500"></td>
+
+## Benefits 
+
+<td><img src="/assets/benefits.png" alt="Imagen del benefits" width="1500"></td>
+
+## Testimonies
+
+<td><img src="/assets/testimonies.png" alt="Imagen de testimonies" width="1500"></td>
+
+## Contact Us
+
+<td><img src="/assets/ContactUs.png" alt="Imagen del contact us" width="1500"></td>
+
+## Footer
+
+<td><img src="/assets/footer.png" alt="Imagen del footer" width="1500"></td>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
