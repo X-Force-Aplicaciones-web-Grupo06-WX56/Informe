@@ -300,6 +300,9 @@ Por este primer sprint, se muestra las capturas de la landing page
 <td><img src="/assets/footer.png" alt="Imagen del footer" width="1500"></td>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+**Link de la landing page desployada:** https://x-force-aplicaciones-web-grupo06-wx56.github.io/Landing-Page/
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Para el desarrollo de la landing page, se usó lo siguiente:
