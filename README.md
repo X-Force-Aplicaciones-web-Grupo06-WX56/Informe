@@ -242,13 +242,16 @@ En resumen, nuestra misión es facilitar la conexión entre clientes y abogados,
 |<img src="https://i.imgur.com/nNtnlel.png" alt="Jose" width="1010" height="180">|**Pariona Lucas, Jose Manuel** <br> *Ingeniería de Software* <br> Tengo 20 años. En la actualidad me encuentro cursando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios en programación. Me considero una persona flexible, comprometida con lo que hago y dispuesta a apoyar a mis compañeros en todo lo que pueda.|
 
 ## 1.2 Solution Profile
+
+Se buscara resolver el desempleo entre los abogados en Perú y facilitar a las personas con problemas legales la búsqueda de servicios legales de calidad. Para ello, se desarrollará una aplicación web que conecte a personas que necesitan asesoría legal con abogados desempleados, mejorando la comunicación y eficiencia en la contratación de servicios legales. La solución se centra en crear una plataforma fácil de usar que beneficie a ambas partes, aumentando la contratación de abogados y mejorando la satisfacción del usuario.
+
 ### 1.2.1 Antecedentes y problemática
 
 Según Vallecilla (2024), hasta febrero del año 2024, la tasa de desempleo en Perú alcanzó el 7.30%. Esta situación afecta también a los egresados de la carrera de derecho, quienes enfrentan desafíos significativos para encontrar un empleo estable debido a la coyuntura actual. Además, las personas con problemas legales enfrentan dificultades para encontrar abogados de calidad, ya que carecen de orientación sobre dónde buscar o cómo encontrarlos.
 | | |
 |-|-|
 |What(Que)| Se trata de abordar la problemática del desempleo entre los egresados de la carrera de derecho y la dificultad de las personas con problemas legales para encontrar abogados de calidad. |
-|When (Cuándo)| Esta iniciativa se está llevando a cabo en el ciclo 2024-01. |
+|When (Cuándo)| Esta iniciativa se está llevando a cabo en el ciclo 2024-02. |
 |Where (Dónde)|La acción se centra en Perú, donde se enfrentan desafíos específicos relacionados con el desempleo entre los egresados de derecho y la dificultad de acceso a servicios legales de calidad.|
 |Who (Quién)|Egresados de la carrera de derecho que se encuentran en busca de empleo, personas que se encuentran con problemas legales que necesitan ayuda o asistencia legal y desarrolladores que trabajarán en la implementación de la solución.|
 |Why (Por qué)|Ofrecer una solución para mitigar el desempleo entre los abogados y facilitar a las personas con problemas legales la búsqueda de asesoramiento legal de forma efectiva.|
@@ -262,7 +265,7 @@ Actualmente, las personas que enfrentan problemas legales se encuentran con difi
 
 #### 1.2.2.2. Lean UX Assumptions
 
-Business Assumptions
+Business Assumptions:
 -	Creo que mis clientes necesitan: Acceso a abogados calificados de forma rápida y una plataforma que les permita encontrar y contratar abogados.
 -	Estas necesidades se pueden resolver con: Una aplicación web que conecte a personas con problemas legales con abogados dispuestos a ofrecer servicios.
 -	Mis clientes iniciales son (o serán): Personas con problemas legales que buscan asistencia legal y abogados desempleados en busca de oportunidades laborales.
@@ -271,22 +274,22 @@ Business Assumptions
 -	Mi principal competencia en el mercado será: Firmas de abogados tradicionales y plataformas en línea que ofrecen servicios legales.
 -	Mi mayor riesgo de producto es: La aceptación por parte de los usuarios de la plataforma y la necesidad de establecer la confianza en la calidad de los servicios legales proporcionados a través de la plataforma.
 
-User Assumptions
-¿Quién es el usuario? 
+User Assumptions:
+¿Quién es el usuario? <br>
 El usuario es tanto personas con problemas legales en busca de asesoramiento legal como abogados desempleados en busca de oportunidades laborales.
-¿Dónde encaja nuestro servicio en su trabajo o vida? 
+¿Dónde encaja nuestro servicio en su trabajo o vida? <br>
 Nuestro producto se integra en la búsqueda y contratación de servicios legales, mejorando la accesibilidad, la confianza y la eficiencia en la conexión entre personas con problemas legales y abogados desempleados.
-¿Qué problema tiene nuestro servicio y cómo se resuelve?
+¿Qué problema tiene nuestro servicio y cómo se resuelve?<br>
 Nuestro producto resuelve la dificultad de encontrar abogados calificados para las personas con problemas legales, así como la falta de oportunidades laborales para los abogados desempleados.
 
-¿Cuándo y cómo es usado nuestro servicio?
+¿Cuándo y cómo es usado nuestro servicio?<br>
 El producto se utiliza cuando las personas enfrentan problemas legales y necesitan asistencia legal, así como cuando los abogados desempleados buscan oportunidades laborales. Se accede a través de la aplicación web tanto desde dispositivos móviles como desde computadoras.
 
-Users outcomes
+Users outcomes: 
 -	Los usuarios pueden acceder a servicios legales de calidad de forma rápida y efectiva.
 -	Los abogados pueden encontrar clientes y generar ingresos, contribuyendo así a su estabilidad financiera y desarrollo profesional.
 
-Business outcomes
+Business outcomes: 
 -	Incrementar la contratación de abogados a través de la plataforma.
 -	Brindar una plataforma fácil de usar e interactiva con una buena experiencia de usuario.
 -	Asegurar que la comunicación entre el abogado y el cliente sea sencilla dentro de la plataforma.
@@ -296,10 +299,10 @@ Users:
 -	Personas que buscan un abogado que pueda ayudarlos con sus problemas legales.
 -	Abogados en busca de personas con problemas legales
 
-Features
-¿Qué características son importantes?
+Features:
+¿Qué características son importantes?<br>
 Características clave incluyen facilidad de búsqueda y contratación de abogados, transparencia en calificaciones, seguridad en la protección de datos personales, y oportunidades laborales para abogados desempleados.
-¿Cómo debe verse y comportarse nuestro producto?
+¿Cómo debe verse y comportarse nuestro producto?<br>
 El producto debe tener una interfaz intuitiva y amigable, proporcionar acceso rápido a información relevante sobre abogados y servicios legales, y ofrecer una experiencia fluida tanto para personas con problemas legales como para abogados desempleados.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
