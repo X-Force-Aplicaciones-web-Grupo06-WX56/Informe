@@ -301,4 +301,13 @@ Por este primer sprint, se muestra las capturas de la landing page
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo de la landing page, se usó lo siguiente:
+
+* HTML: Para la estructura de la página web
+* CSS: Para darle estilos a la página web
+* JS: Para darle dinamismo a la página web
+* Git: Es el sistema de control de versiones
+* Github: Software online para almacenar repositorios Git
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
