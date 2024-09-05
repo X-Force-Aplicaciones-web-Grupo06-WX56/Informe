@@ -887,6 +887,8 @@ Values:
 
 ### 4.8.1. Database Diagram
 
+![DB-Diagram](https://imgur.com/TcJcjaw.png)
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
