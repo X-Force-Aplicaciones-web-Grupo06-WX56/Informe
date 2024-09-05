@@ -155,6 +155,118 @@ Referencia: https://specflow.org/gherkin/gherkin-conventions-for-readable-specif
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            2024/08/28
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            03:00 PM
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad virtual por Discord
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de X-Force
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Condori Lozano, Alessandro Ramiro <br/>
+            - La Madrid Lozano, Ivan Jeanpierre <br/>
+            - Paucar Meneses, Jeremy <br/>
+            - Cossio Jimenez, Jimena Alessandra <br/>    
+            - Pariona Lucas, Jose Manuel <br/>
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se definieron las historias de usuario para la landing page y para la aplicación web Law Connect.
+            </br></br>
+            La Landing Page se implementó exitosamente.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Hubo una buena comunicación entre los integrantes y cada uno de ellos aportó con ideas para el proyecto.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Goal</b>
+        </td>
+        <td>
+            Desarrollar la landing page del proyecto
+        </td>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+</table>
+
 #### 5.2.1.2. Sprint Backlog 1
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
