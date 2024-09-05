@@ -423,33 +423,436 @@ Se busca inicialmente mejorar la comunicación entre abogados y clientes, con es
 |  **17**   | Gestión y Visualización de Perfil   |       E4US4       | Edición de Perfil de Usuario                  | Como usuario con problemas legales, quiero poder editar mi perfil en LawConnect para mantener actualizada mi información personal.                                             |        4         |
 
 # Capítulo IV: Product Design
+
 ## 4.1. Style Guidelines
+
 ### 4.1.1 General Style Guidelines
+
+**Branding**: El logo de la aplicación trata de una balanza egipcia el cual es un símbolo de la justicia moderna .Esta balanza representa la igualdad con que la justicia trata a todos. El texto de LAW CONNECT traducido al español es conectar abogados , esto se debe a que la aplicación es para contratar abogados para casos específicos que se requiera.
+
+![Logo](https://imgur.com/NbtuDyB.png)
+
+**Typography**: La fuente que se ha utilizado es Franklin Gothic Heavy en su versión Italic
+Colors: Los colores que se utilizaron son el tono violeta y el amarillo saturado.
+
+![Colors](https://imgur.com/sFbXIO4.png)
+
+**Dimensión**: La dimensión que se adapto en cuanto al diseño es un tono formal y aplicando colores profesionales como el violeta presentado y un tono entusiasta con colores amarillos. Asimismo, para el diseño de los íconos y formas adoptaremos diseños simples y elegantes, como por ejemplo podemos agregar el color gris para resaltar la elegancia.
+
 ### 4.1.2 Web Style Guidelines
+
+● Se utilizará la tendencia web de functional minimalism con el color blanco como predominante en el fondo de la mayoría de las secciones para brindar una visualización limpia y contraste de los elementos.
+
+● Por otro lado, se emplearán moderadamente colores grises en algunas secciones para resaltar algunas secciones como botones .
+
+● Implementaremos un diseño adaptable (Web Responsive Design) que tiene como finalidad mostrar la información de manera óptima en cualquier tipo de dispositivo.
+
 ## 4.2. Information Architecture
+
+En esta sección nos enfocaremos en el contenido visual, los estilos y los elementos que se tendrán en cuenta para nuestra aplicación web y landing page de Law Connect. A continuación, exploraremos los temas de Sistemas de Organización, Sistemas de Etiquetado, Etiquetas de SEO y Metaetiquetas, Sistemas de Búsqueda y Sistemas de Navegación.
+
 ### 4.2.1 Organization Systems
+
+Para los sistemas de organización, hemos decidido considerar la estructuración del contenido con un encabezado (header) donde las secciones a las que el usuario puede acceder se agrupen de manera clara. De esta forma, el usuario sabrá dónde hacer clic para acceder a las secciones correspondientes de Law Connect.
+
+**● Organización Visual del Contenido (Visual Hierarchy):** Vamos a emplear una disposición visual jerarquizada para destacar los datos más importantes y facilitar la navegación de los usuarios. Esto se verá reflejado en la presentación de los vehículos disponibles, las tarifas y las opiniones de otros usuarios.
+
+**● Organización Secuencial (Step-by-Step to Accomplish):** Implementaremos una secuencia lógica para orientar a los usuarios a través de procesos clave, como la reserva de un vehículo o la inscripción en la plataforma. Esto asegura que los usuarios puedan completar las tareas de forma intuitiva.
+
+**● Organización Matricial (Matrix Organization):** Utilizaremos una estructura matricial para mostrar comparaciones entre diferentes opciones, como la disponibilidad de vehículos en distintas ubicaciones y fechas. Esto permitirá a los usuarios tomar decisiones fundamentadas.
+
 ### 4.2.2 Labeling Systems
+
+Dentro de Law Connect , los sistemas de etiquetado desempeñan una función crucial en la organización y accesibilidad de la información en nuestra plataforma. Estos nombres aparecen en enlaces, menús, pie de página y encabezados que señalan la jerarquía de la información. Son vitales para facilitar la navegación de los usuarios por nuestro sitio web y para que encuentren la información que están buscando de manera sencilla.
+Las etiquetas que emplearemos deben considerar las implicaciones de SEO, lo que implica cumplir con los siguientes objetivos:
+
+**1. Experiencia de Usuario (UX):** Las etiquetas deben ofrecer información y contexto claro para que los usuarios comprendan la función de los elementos etiquetados.
+
+**2. SEO:** Se utilizará el etiquetado interno para vincular las páginas de Law Connect de manera coherente, mejorando así la optimización de motores de búsqueda.
+
+**3. Palabras Clave y Etiquetado Adecuado:** Cada página de Law Connect contendrá palabras clave pertinentes y un etiquetado adecuado para distribuir los términos de forma efectiva y evitar la competencia interna entre páginas.
+
+**4. Impacto de las Etiquetas en Menús y Bloques Estáticos:** Reconocemos que las palabras clave en los menús y bloques estáticos tienen un mayor impacto en la navegación y visibilidad de Law Connect.
+
 ### 4.2.3 SEO Tags and Meta Tags
+
+En Law Connect, reconocemos la importancia de optimizar nuestras páginas tanto en la Landing Page como en la Aplicación Web para mejorar la visibilidad en los motores de búsqueda y proporcionar una experiencia de usuario excepcional. A continuación, se describen los principales SEO Tags y Meta Tags que utilizaremos, junto con los valores asignados:
+
+**● Title (Título):** El título de una página es fundamental tanto para los motores de búsqueda como para los usuarios. Implementaremos títulos descriptivos y atractivos para cada página, los cuales reflejarán claramente su contenido y propósito.
+
+**● Meta Tags de Descripción (Meta Description):** Los meta descripciones son breves resúmenes que se muestran en los resultados de búsqueda. Implementaremos meta descripciones claras y concisas que incentiven a los usuarios a hacer clic en nuestro sitio. Por ejemplo una meta descripción podría ser :”Descubre la forma mas sencilla de resolver tus problema con Law Connect”.
+
+**● Meta Keywords:** Aunque el enfoque en las palabras clave ha evolucionado en el ámbito del SEO, aún consideraremos términos relevantes para cada página y los incluiremos en los meta tags de keywords cuando sea pertinente. Esto ayudará a los motores de búsqueda a comprender mejor el contenido de nuestras páginas y mejorar la relevancia.
+
+**● Meta Author Tag:** Utilizaremos el meta tag de autor para identificar al creador o autor del contenido, lo cual puede contribuir a establecer credibilidad y autoridad en la industria.
+
 ### 4.2.4 Searching Systems
+
+En Law Connect, hemos creado un sistema de búsqueda completo para facilitar a los usuarios la búsqueda eficiente del vehículo de alquiler que mejor se ajuste a sus necesidades. A continuación, detallamos cómo hemos diseñado nuestro sistema de búsqueda para evitar que los usuarios se sientan abrumados por la cantidad de información y cómo se presentarán los datos después de realizar la búsqueda.
+**Opciones de Búsqueda:**
+Proporcionamos a nuestros usuarios dos alternativas de búsqueda para adaptar su experiencia según sus preferencias individuales. Estas alternativas abarcan desde la búsqueda por nombre y por especialidad. Esto capacita a los usuarios para afinar su búsqueda de acuerdo con sus preferencias particulares.
+![Busqueda](https://imgur.com/XdzXreW.png)
+
 ### 4.2.5 Navigation Systems
+
+El visitante o usuario dentro de nuestra landing page podrán explorar el contenido mediante la barra de desplazamiento ubicada en la parte derecha. Además, los encabezados funcionan como botones que ayudan a explorar la página de manera más precisa. Esto ayuda a que nuestro sitio web tenga una interacción intuitiva y simple.
+
 ## 4.3. Landing Page UI Design
+
 ### 4.3.1 Landing Page Wireframe
+
+En Law Connect, hemos desarrollado un sistema de navegación intuitivo y efectivo que dirige a nuestros usuarios a través de nuestra Landing Page y aplicaciones, ayudándoles a alcanzar sus objetivos e interactuar de manera satisfactoria con nuestro producto. A continuación, detallamos cómo los usuarios podrán explorar nuestro contenido:
+
+**Barra de Navegación:**
+Se ha implementado una barra de navegación en la parte superior de la web la cual tiene 4 opciones :
+**● Inicio:** Aquí el usuario podrá acceder al inicio principal de la web , en donde encontrará la información más reciente que haya recibido o realizado.
+
+**● Notificaciones:** Aquí el usuario puede recibir información sobre su caso en cuestión.
+
+**● Buscar:** Aquí el usuario podrá hacer la búsqueda del abogado que desea contratar .
+
+**● Casos:** Aquí el usuario podrá ver los casos que ha creado de acuerdo a sus necesidades.
+
+**Figma del landing Page LawConnect:**
+[Figma-landingPage](https://www.figma.com/file/a3z0aRFqQVqKPjFcuimYdq/LawConnect_2024?type=design&node-id=4647-147&mode=design&t=H12gS3TKtwaJOy6l-0)
+
+![png1](https://imgur.com/ZVz6go9.png)
+
+Los beneficios y los casos que emiten nuestros abogados para ayudar a las personas
+
+![png2](https://imgur.com/b9gP5Fj.png)
+
+Contará con una sección donde los clientes podrán visualizar los testimonios de otras clientes que están felices por el buen trabajo.
+
+![png3](https://imgur.com/fZAWDNJ.png)
+
+Finalmente al final tendra una seccion de footer con unos links
+
+![png4](https://imgur.com/BEdzUMX.png)
+
 ### 4.3.2 Landing Page Mock-up
+
+En esta sección se ha implementado el mockup como a ido implementado nuestro landing page.
+Link:
+
+[mockup-landingPage](https://www.figma.com/proto/a3z0aRFqQVqKPjFcuimYdq/LawConnect_2024?type=design&node-id=4650-421&t=H12gS3TKtwaJOy6l-0&scaling=min-zoom&page-id=4629%3A5273)
+
+![png1](https://imgur.com/Y5VMZCC.png)
+
+![png2](https://imgur.com/iyQlvrX.png)
+
+![png3](https://imgur.com/Qp9PRdp.png)
+
+![png4](https://imgur.com/ramrekp.png)
+
+![png5](https://imgur.com/VoPKrzj.png)
+
+![png6](https://imgur.com/YtBRXnz.png)
+
 ## 4.4. Web Applications UX/UI Design
+
 ### 4.4.1. Web Applications Wireframes
+
+![png1](https://imgur.com/ebE5M1E.png)
+
+![png2](https://imgur.com/hDfEueO.png)
+
+![png3](https://imgur.com/wyfnrvg.png)
+
+![png4](https://imgur.com/Pml7QcY.png)
+
+![png5](https://imgur.com/I40jXVU.png)
+
+![png6](https://imgur.com/0VZBcGS.png)
+
+![png7](https://imgur.com/TO8VJ4W.png)
+
+![png8](https://imgur.com/ZoDgyS6.png)
+
+![png9](https://imgur.com/yy22KAX.png)
+
+![png10](https://imgur.com/f0bWTps.png)
+
+![png11](https://imgur.com/UqkjBFa.png)
+
+![png12](https://imgur.com/BSIomhC.png)
+
+![png13](https://imgur.com/EXi0XKr.png)
+
+![png14](https://imgur.com/jx4nkE9.png)
+
+![png15](https://imgur.com/t3GuKc5.png)
+
+![png16](https://imgur.com/tH9HpDQ.png)
+
+![png17](https://imgur.com/iKC71FJ.png)
+
+![png18](https://imgur.com/p0ybmPB.png)
+
+![png19](https://imgur.com/iVsj545.png)
+
+![png20](https://imgur.com/cVmP52K.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+**Inicio de Sesión**
+
+![png1](https://imgur.com/HF2hLgm.png)
+
+**Sección Casos**
+
+![png2](https://imgur.com/mmeURuA.png)
+
+**Sección Perfil**
+
+![png3](https://imgur.com/UhX9i41.png)
+
+**Sección Suscripción**
+
+![png4](https://imgur.com/C3bAzQj.png)
+
+**Sección Buscar Abogado**
+
+![png5](https://imgur.com/QYDFmn6.png)
+
+**Sección Contratar Abogado**
+
+![png6](https://imgur.com/yb9U4IG.png)
+
+**Sección Notificaciones**
+
+![png7](https://imgur.com/p3QYHWJ.png)
+
 ### 4.4.3. Web Applications Mock-ups
+
+**Iniciar sesión en LawConnect**
+
+![png1](https://imgur.com/gNEx9gx.png)
+
+**Ver Sección de Casos**
+
+![png2](https://imgur.com/9hkXmtV.png)
+
+**Ver Sección de Notificaciones**
+
+![png3](https://imgur.com/M8T0wOH.png)
+
+**Ver Sección de Perfil**
+
+![png4](https://imgur.com/ffgOUZU.png)
+
+**Ver Sección Pago de Suscripción**
+
+![png5](https://imgur.com/xv1Njr0.png)
+
+**Ver Sección de Buscar Abogado**
+
+![png6](https://imgur.com/fsCDMru.png)
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+**“Ambos Segmentos objetivos podrán iniciar sesión en la aplicación, si los datos introducidos son incorrectos, deberán volver a intentar el inicio de sesión”**
+
+![png1](https://imgur.com/MUaZgiC.png)
+
+**“El cliente podrá visualizar sus últimas casos en los que se encuentra y podrá comunicarse con el abogado presionando la sección del caso”**
+
+![png2](https://imgur.com/HyA8ML3.png)
+
+**“Ambos Segmentos objetivos podrán visualizar sus últimas notificaciones de los casos en los que se encuentran”**
+
+![png3](https://imgur.com/QooOg8B.png)
+
+**“Según el tipo de cliente, ya sea abogado o cliente, podrán editar su perfil ”**
+
+![png4](https://imgur.com/AUpYnxG.png)
+
+**“El abogado para empezar a recibir clientes, deberá comprar una subscripción mensual, depende de la suscripción recibirá ”**
+
+![png5](https://imgur.com/UMmsHOr.png)
+
+**“El cliente desea buscar a un abogado, ya sea por un nombre o por especialidad”**
+
+![png6](https://imgur.com/UmskfMT.png)
+
 ## 4.5. Web Applications Prototyping
+
+![png1](https://imgur.com/qZkKeoY.png)
+
+![png2](https://imgur.com/Dyu4Cur.png)
+
+![png3](https://imgur.com/WbhqC9r.png)
+
 ## 4.6. Domain-Driven Software Architecture
+
 ### 4.6.1. Software Architecture Context Diagram
+
+![contextDiagram](https://imgur.com/RMamfio.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+![contentDiagram](https://imgur.com/DPivizq.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+![componentDiagram](https://imgur.com/f5d2jo4.png)
+
 ## 4.7. Software Object-Oriented Design
+
 ### 4.7.1. Class Diagrams
+
+![ClassDiagram](https://imgur.com/6sWyb9I.png)
+
 ### 4.7.2. Class Dictionary
+
+User (Class)
+Description: Represents a generic user who can be either a lawyer or a client.
+
+Attributes:
+
+- id: int – Unique identifier for the user.
+- name: String – Full name of the user.
+- email: String – Email address of the user.
+- password: String – Password for user authentication.
+
+Methods:
+
+- register() – Method for the user to register on the platform.
+- login() – Method for the user to log in.
+- updateProfile() – Method to update the user’s profile information.
+
+Profile (Class)
+Description: Contains personal information of the user.
+
+Attributes:
+
+- address: String – Physical address of the user.
+- phone: String – Phone number of the user.
+- birthDate: Date – Date of birth of the user.
+- userType: UserType – Defines whether the user is a lawyer or a client.
+
+Methods:
+
+- updateInformation() – Allows updating the user’s profile information.
+
+Lawyer (Class)
+Description: Represents lawyers in the system and extends from the User class.
+
+Attributes:
+
+- specialties: List<Specialty> – List of legal specialties the lawyer has.
+- averageRating: double – Average rating based on client reviews.
+
+Methods:
+
+- updateSpecialties() – Allows the lawyer to update their specialties.
+- viewRatings() – Method for the lawyer to view their ratings and comments.
+
+Client (Class)
+Description: Represents clients who have legal issues and extends from the User class.
+
+Attributes:
+
+- legalCases: List<LegalCase> – List of legal cases the client has created or is involved in.
+
+Methods:
+
+- contactLawyer(Lawyer lawyer) – Method for the client to contact a lawyer.
+- rateLawyer(Lawyer lawyer, int rating) – Method for the client to rate a lawyer.
+
+Specialty (Class)
+Description: Represents areas of expertise for lawyers.
+
+Attributes:
+
+- id: int – Unique identifier for the specialty.
+- name: String – Name of the legal specialty (e.g., Criminal Law).
+
+Methods:
+
+- getLawyersBySpecialty() – Method to return a list of lawyers with this specialty.
+
+LegalCase (Class)
+Description: Represents a legal case on the platform.
+
+Attributes:
+
+- id: int – Unique identifier for the legal case.
+- description: String – Description of the legal case.
+- type: LegalCaseType – Type of legal case (Civil, Criminal, Family, etc.).
+
+Methods:
+
+- createLegalCase() – Method to create a new legal case.
+- updateLegalCase() – Method to update an existing legal case.
+
+LegalCaseType (Enum)
+Description: Enumerates possible types of legal cases.
+
+Values:
+
+- CIVIL – Civil law cases.
+- CRIMINAL – Criminal law cases.
+- FAMILY – Family law cases.
+- LABOR – Labor law cases.
+
+Rating (Class)
+Description: Represents a rating and comment left by a client for a lawyer.
+
+Attributes:
+
+- id: int – Unique identifier for the rating.
+- score: int – Rating score (usually between 1 and 5).
+- comment: String – Additional comment about the lawyer.
+- date: Date – Date the rating was left.
+
+Methods:
+
+- rateLawyer() – Method to allow the client to rate the lawyer.
+- viewRatings() – Allows viewing the lawyer’s ratings and comments.
+
+Notification (Class)
+Description: Represents notifications sent to users.
+
+Attributes:
+
+- id: int – Unique identifier for the notification.
+- message: String – The content of the notification message.
+- date: Date – Date the notification was sent.
+
+Methods:
+
+- sendNotification() – Method to send a notification to a user.
+- markAsRead() – Method to mark the notification as read.
+
+Contract (Class)
+Description: Represents a contract between a client and a lawyer.
+
+Attributes:
+
+- id: int – Unique identifier for the contract.
+- startDate: Date – The start date of the contract.
+- endDate: Date – The end date of the contract.
+- amount: double – The agreed-upon amount in the contract.
+
+Methods:
+
+- createContract() – Method to generate a new contract between the client and lawyer.
+- terminateContract() – Method to terminate an active contract.
+
+UserType (Enum)
+Description: Enumerates user types.
+
+Values:
+
+- LAWYER – The user is a lawyer.
+- CLIENT – The user is a client.
+
 ## 4.8. Database Design
+
 ### 4.8.1. Database Diagram
+
+![DB-Diagram](https://imgur.com/TcJcjaw.png)
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
