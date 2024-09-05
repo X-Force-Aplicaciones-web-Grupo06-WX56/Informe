@@ -50,9 +50,9 @@ En esta sección describimos los productos de software que hemos usado en el pro
 <h3>Semantic Versioning 2.0.0</h3>
 <p>Según el Semantic Versioning 2.0.0 (https://semver.org/), los "Releases" se nombran de la siguiente manera:</p>
 
-* MAJOR version: Al realizar los cambios de APIs incompatibles
-* MINOR version: Al agregar funcionalidades compatibles con versiones anteriores
-* PATCH version: Al realizar correcciones de errores compatibles con versiones anteriores
+* <b>MAJOR version</b>: Al realizar los cambios de APIs incompatibles
+* <b>MINOR version</b>: Al agregar funcionalidades compatibles con versiones anteriores
+* <b>PATCH version</b>: Al realizar correcciones de errores compatibles con versiones anteriores
 
 <h3>Conventional Commits</h3>
 <p>Para los textos de mensajes en commits se aplican los "Conventional Commits" (https://www.conventionalcommits.org/) de la siguiente manera (omitir las comillas simples):</p>
@@ -65,6 +65,89 @@ Donde:
 * <'description'>: Representa la descripción detallada del commit, así como las acciones realizadas
 
 ### 5.1.3. Source Code Style Guide & Conventions
+En este apartado se indicarán las referencias que adoptaremos para nombrar elementos y algunas convenciones que emplearemos durante el proyecto:
+<h3>HTML</h3>
+
+* Usar letras en minúscula para nombrar elementos y atributos
+* Siempre colocar entre comillas los valores de los atributos, especialmente si ese valor contiene espacios
+* Especificar los atributos <i>alt</i> (nombre alternativo), <i>width</i> (anchura) y <i>height</i> (altura) para las imágenes
+* No usar espacios en blanco alrededor del signo "="
+* Usar cuatro espacios de sangría
+* Nunca omitir el elemento <'title'><'title'>
+* Eliminar los espacios en blanco finales
+* Usar la sintaxis de HTML5
+* Evitar el uso innecesario de atributos "id". En su lugar, usar atributos "class" para estilos y el atributo "data" para scripts
+* Usar una nueva línea para cada elemento de bloque, lista o tabla y aplicar sangría a cada elemento secundario
+
+Referencias:
+- https://www.w3schools.com/html/html5_syntax.asp
+- https://google.github.io/styleguide/htmlcssguide.html
+
+<h3>CSS</h3>
+
+* Usar nombres de clase genéricos o significativos, que representen el propósito del elemento
+* Si el nombre de una clase tiene más de una palabra, siempre separarlas con un guión (-)
+* Incluir siempre la inicial <b>0</b> en los valores. Ejemplo: font-size: 0.7em
+* Usar notación hexadecimal de 3 caracteres en lo posible
+* Evitar el uso de la declaración <b>!important</b>. En su lugar, usar la especificidad del selector
+* Usar punto y coma (<b>;</b>) al final de cada declaración
+* Usar un espacio después de los dos puntos (<b>:</b>) del nombre de una propiedad
+* Usar comillas simples (<b>''</b>) en lugar de comillas dobles (<b>""</b>) para selectores de atributos y valores de propiedades
+
+Referencia: https://google.github.io/styleguide/htmlcssguide.html
+
+<h3>JavaScript</h3>
+
+* Usar camelCase para nombrar funciones, métodos, variables, propiedades del objeto y para definir una instancia de objeto mediante un constructor
+* Usar PascalCase para nombrar clases
+* Usar UPPERCASE para nombrar constantes como <b>PI</b>
+* Usar <b>extends</b> para hacer herencia
+* Usar operadores de igualdad estricta "<b>===</b>" y desigualdad estricta "<b>!==</b>" en lugar de "<b>==</b>" y "<b>!=</b>"
+* Usar espacios en blanco alrededor de los operadores (=, +, -, *, /) y después de las comas (,)
+* Terminar la declaración con un punto y coma (;)
+
+Referencias: 
+- https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript
+- https://www.w3schools.com/js/js_conventions.asp
+
+<h3>Vue.JS</h3>
+
+* Usar nombres multi-palabra para nombrar componentes, excepto por "root App components" y "built-in components by Vue" como <"component">
+* Usar el componente "<b>data</b>" como una función al usar la propiedad <b>data</b>
+* Especificar las definiciones de <b>Props</b> lo más que se pueda, al menos especificar su tipo de dato
+* Crear cada componente en su propio archivo
+* Usar la nomenclatura kebak-case para nombrar los archivos de los componentes de Vue
+* Incluir el nombre del componente padre como prefijo a aquellos componentes hijo que están fuertemente acoplados a su padre
+* Nombrar los componentes con nombres completos en lugar de abreviaciones
+* Usar camelCase al declarar nombres de propiedades
+* Usar kebak-case al nombrar propiedades en plantillas y JSX
+* Ocupar múltiples líneas para elementos con múltiples atributos, con un atributo por línea
+
+Referencia: https://vuejs.org/v2/style-guide/
+
+<h3>C#</h3>
+
+* Usar las palabras clave del idioma para los tipos de datos en lugar de los tipos de tiempo en ejecución. Ejemplo: usar <b>string</b> en lugar de <b>System.String</b>
+* Usar <b>int</b> en lugar de <b>unsigned types</b> para los tipos sin signo
+* Usar la interpolación de string con el signo <b>$</b> para concatenar string cortos
+* Usar <b>Func<></b> y <b>Action<></b> en lugar de definir tipos de delegados
+* Usar la <b>I</b> mayúscula al inicio para nombrar nombres de interfaz
+* Usar nombres descriptivos y con significado para nombrar clases, métodos y variables
+* Usar PascalCase para nombrar clases, constantes, interfaces, delegados y métodos
+* Usar camelCase para los parámetros de los métodos, así como para las variables locales
+
+Referencias: 
+- https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+- https://learn.microsoft.com/es-es/dotnet/csharp/fundamentals/coding-style/identifier-names/
+
+<h3>Gherkin</h3>
+
+* Describir los escenarios usando los términos "<b>Given</b>", "<b>When</b>" y "<b>Then</b>" en líneas nuevas
+* En el caso de que el escenario se haga más grande, usar sangría con el término "<b>And</b>" en un nuevo bloque o línea
+* Usar verbos en tiempo presente al describir los pasos del escenario
+
+Referencia: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
