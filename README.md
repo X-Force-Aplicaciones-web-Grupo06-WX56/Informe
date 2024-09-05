@@ -33,6 +33,37 @@ En esta sección describimos los productos de software que hemos usado en el pro
 * Software Deployment
   - Github Pages: Plataforma para desplegar la landing page
 ### 5.1.2. Source Code Management
+<p>Utilizamos Github como plataforma, así como un sistema de control de versiones.</p>
+<p>Para ello se creó una organización para el proyecto del equipo. En esta organización, se crearon 4 repositorios, los cuales corresponden al informe del proyecto, la landing page, el frontend y el backend.</p>
+
+* Organización del proyecto: https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56
+* Informe: https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Informe
+* Landing page: https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Landing-Page
+* Frontend: https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Frontend
+* Backend: https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Backend
+
+<p>Usamos Gitflow para tener un mejor manejo del código usado en el proyecto. En Gitflow se establecieron dos ramas principales, las cuales son "main" y "Develop".</p>
+<p>La rama "main" contiene la versión final del informe y de la landing page.</p>
+<p>La rama "Develop" se usa para realizar los cambios hechos en el código sin afectar al "main". También se usa para integrar nuevas funcionalidades del proyecto.</p>
+<p>Además, usamos la rama temporal "Feature" para llevar a cabo las nuevas funciones del proyecto sin que este afecte a las ramas principales. En nuestro caso, dividimos las "Feature" por capítulos para el informe. De esa manera tendremos un mejor orden y estructura del proyecto. Los "Feature" los nombramos de la siguiente manera: "Feature/Chapter#" donde el signo "#" representa el número del capítulo que se trabajó.</p>
+
+<h3>Semantic Versioning 2.0.0</h3>
+<p>Según el Semantic Versioning 2.0.0 (https://semver.org/), los "Releases" se nombran de la siguiente manera:</p>
+
+* MAJOR version: Al realizar los cambios de APIs incompatibles
+* MINOR version: Al agregar funcionalidades compatibles con versiones anteriores
+* PATCH version: Al realizar correcciones de errores compatibles con versiones anteriores
+
+<h3>Conventional Commits</h3>
+<p>Para los textos de mensajes en commits se aplican los "Conventional Commits" (https://www.conventionalcommits.org/) de la siguiente manera (omitir las comillas simples):</p>
+
+* <'type'>[optional scope]: <'description'>
+
+Donde:
+* <'type'>: Representa la palabra inicial que indica la clase de commit a emplear. Ejemplos: fix, feat, build, chore, docs, refactor, etc.
+* [optional scope]: Representa el alcance del commit y no es obligatorio.
+* <'description'>: Representa la descripción detallada del commit, así como las acciones realizadas
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
