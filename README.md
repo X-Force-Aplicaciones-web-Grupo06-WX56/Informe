@@ -149,6 +149,9 @@ Referencias:
 Referencia: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
 
 ### 5.1.4. Software Deployment Configuration
+<p>Para desplegar el landing page, se usará Github Pages, herramienta que nos permitirá desplegar la página a partir de un repositorio.</p> 
+<p>Para ello creamos el repositorio de la landing page, luego configuramos aquel repositorio en el que se desplegará la landing page, subimos los archivos con su respectivo commit y copiamos el nombre del repositorio que se encuentra en la página de configuración. Ya estaría listo para visualizarse en el navegador.</p>
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
