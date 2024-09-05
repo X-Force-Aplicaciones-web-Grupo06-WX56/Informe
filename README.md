@@ -311,3 +311,7 @@ Para el desarrollo de la landing page, se usó lo siguiente:
 * Github: Software online para almacenar repositorios Git
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Aquí se encuentra la captura de las contribuciones de la landing page
+
+<td><img src="/assets/contributors.png" alt="Imagen de contribuciones"></td>
