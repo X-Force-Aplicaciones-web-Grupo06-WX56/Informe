@@ -393,6 +393,16 @@ Por este primer sprint, se muestra las capturas de la landing page
 Los archivos .feature desempeñan un papel fundamental a la hora de las practicas de desarrollo de software orientadas al comportamiento, como el Desarrollo Guiado por Comportamiento (BDD). Donde tienen la funcion de transmitir y automatizar las especificaciones encontradas en las historias de usuario ( User Stories). Para el Sprint 2 se se abordaron 2 historias de usuario para el Landing Page.
 ![image](https://github.com/user-attachments/assets/8185a126-3294-4572-922e-1fca3dda9356)
 README.MD 23/09/2024
+![image](https://github.com/user-attachments/assets/f6d14e6c-3506-4c19-b755-76442b99cd12)
+5.2.2.8. Team Collaboration Insights during Sprint
+Repositorio del Fronted: 
+
+Repositorio del Landing Page: https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Landing-Page/graphs/contributors
+![image](https://github.com/user-attachments/assets/75cf7f3a-b2a1-4a73-9a05-d6d576b82748)
+
+Repositorio del Informe: https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Informe/graphs/contributors
+![image](https://github.com/user-attachments/assets/f73ca9d4-8d57-4f3f-a7a1-419af9a7a7f7)
+
 
 ## Home
 
