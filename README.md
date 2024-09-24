@@ -443,7 +443,9 @@ Los archivos .feature desempeñan un papel fundamental a la hora de las practica
 README.MD 23/09/2024
 ![image](https://github.com/user-attachments/assets/f6d14e6c-3506-4c19-b755-76442b99cd12)
 5.2.2.8. Team Collaboration Insights during Sprint
-Repositorio del Fronted: 
+Repositorio del Fronted: https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Frontend/graphs/contributors
+![image](https://github.com/user-attachments/assets/8a77dda5-d0ed-4af1-a2dc-e105152c5d03)
+
 
 Repositorio del Landing Page: https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Landing-Page/graphs/contributors
 ![image](https://github.com/user-attachments/assets/75cf7f3a-b2a1-4a73-9a05-d6d576b82748)
