@@ -389,6 +389,10 @@ Referencia: https://specflow.org/gherkin/gherkin-conventions-for-readable-specif
 En este sprint todavía no se desarrolla el Testing, solo la landing page
 #### 5.2.1.5. Execution Evidence for Sprint Review
 Por este primer sprint, se muestra las capturas de la landing page
+5.2.2.4. Testing Suite Evidence for Sprint Review 
+Los archivos .feature desempeñan un papel fundamental a la hora de las practicas de desarrollo de software orientadas al comportamiento, como el Desarrollo Guiado por Comportamiento (BDD). Donde tienen la funcion de transmitir y automatizar las especificaciones encontradas en las historias de usuario ( User Stories). Para el Sprint 2 se se abordaron 2 historias de usuario para el Landing Page.
+![image](https://github.com/user-attachments/assets/8185a126-3294-4572-922e-1fca3dda9356)
+README.MD 23/09/2024
 
 ## Home
 
