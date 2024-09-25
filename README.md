@@ -356,7 +356,7 @@ En esta sección se presentan los To-Be Scenario Mapping para cada segmento obje
 ## 3.3. Impact Mapping.
 Se busca inicialmente mejorar la comunicación entre abogados y clientes, con este último tomando la iniciativa al buscar en la plataforma al abogado que mejor se ajuste a sus necesidades. La plataforma proporciona información sobre la calificación promedio y comentarios del abogado en su perfil, y luego el cliente puede reservar una cita según su conveniencia. También se busca impulsar el crecimiento laboral de los abogados. La plataforma ofrece una sección de perfil donde los abogados pueden detallar sus casos resueltos y servicios ofrecidos. Los clientes tienen la opción de calificar y comentar el servicio recibido, lo que incentiva a los abogados a brindar un servicio de calidad.
 
-![Imgur](https://i.imgur.com/Nrk6xvH.png)
+![Imgur](https://i.imgur.com/6FBzKWO.png)
 ## 3.4. Product Backlog
 
 | **Orden** | **Epic**                            | **User Story ID** | **Título**                                    | **Descripción**                                                                                                                                                                | **Story Points** |
