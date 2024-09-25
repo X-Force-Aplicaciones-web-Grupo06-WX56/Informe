@@ -30,22 +30,62 @@ Agosto del 2024
 
 ---
 # Registro de Versiones del Informe
-
+<table>
+    <tr>
+        <th colspan="3">Version</th>
+        <th colspan="3">Fecha</th>
+        <th colspan="10">Autores</th>
+        <th colspan="5">Descripción de Modificaciones</th>
+    <tr>
+        <td colspan="3">1era</td>
+        <td colspan="3">27/08/2024</td>
+        <td colspan="10">Alessandro Ramiro Condori Lozano, Ivan Jeanpierre La Madrid Lozano, Jeremy Paucar Meneses, Jimena Alessandra Cossio Jimenez, Jose Manuel Pariona Lucas</td>
+        <td colspan="5">Carátula, CapítuloI, Capítulo II</td>
+    </tr>
+    <tr>
+        <td colspan="3">2da</td>
+        <td colspan="3">6/09/2024</td>
+        <td colspan="10">Avellaneda Ramos Carlos Edward, Loli Ramirez Camila Cristina, Condori Lozano Alessandro Ramiro, La Madrid Lozano Ivan Jeanpierre, Pariona Lucas, Jose Manuel</td>
+        <td colspan="5">CapítuloIII, Capítulo IV, Capitulo V</td>
+    </tr>
+</table>
 
 ---
 # Project Report Collaboration Insights
+A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
 
+**URL del Repositorio del Informe:** https://github.com/X-Force-Aplicaciones-web-Grupo06-WX56/Informe
+
+**Entrega N°1: TB1**
+<br>
+
+Las tareas asignadas para la entrega TB1 se han finalizado en el repositorio de Github del equipo, accesible a través del enlace: Informe-TB1-Web.
+
+Para elaborar el informe, se realizaron las siguientes acciones:
+
+- Cada integrante del equipo redactó y creó gráficos en formato Markdown según los puntos asignados, realizando commits para registrar el avance en el repositorio.
+- Se generaron los artefactos necesarios utilizando las herramientas recomendadas y se obtuvieron los enlaces de las imágenes correspondientes mediante la funcionalidad de "Issues" en el repositorio del informe.
+- Se llevaron a cabo reuniones periódicas para coordinar el progreso de los puntos del informe y para comunicar los avances logrados durante el Sprint 1, centrado en el desarrollo de la Landing Page del proyecto.
+
+**Contributors Insights report:**
+![Contributors report](https://i.imgur.com/rnTJ2Mz.png)
+
+**Contributors Insights landing page:**
+![Contributors landing page](https://i.imgur.com/sjB6jaC.png)
+
+**Network Insights report:**
+![alt text](https://i.imgur.com/b2lO4Am.png)
 
 ---
 # Student Outcome
-El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: *Capacidad de comunicarse efectivamente con un rango de audiencias.*
+El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 5** <br> Criterio: *Capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Alessandro Ramiro Condori Lozano** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo I del trabajo final. <br><br> **Ivan Jeanpierre La Madrid Lozano** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo III del trabajo final. <br><br> **Jeremy Paucar Meneses** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo IV del trabajo final. <br><br> **Jimena Alessandra Cossio Jimenez** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo V del trabajo final. <br><br> **Jose Manuel Pariona Lucas** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo II del trabajo final. <br><br>| El Lean UX Process es una herramienta valiosa para desarrollar software basado en las necesidades del usuario. Al centrarse en usuarios y realizar iteraciones frecuentes, podremos desarrollar productos de software más útiles, atractivos y eficientes. <br> Gracias a experiencias previas de redacción de historias de usuario, algunas, referentes a funcionalidades básicas, han sido rescatadas y adaptadas de proyectos anteriores, lo que nos permitió seguir puliendo trabajos anteriores. <br> Debido a estas evaluaciones en las entrevistas se logró determinar las necesidades importantes de los usuarios desde una perspectiva ética y profesional. | 
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Alessandro Ramiro Condori Lozano** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo I del trabajo final. <br><br> **Ivan Jeanpierre La Madrid Lozano** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo III del trabajo final. <br><br> **Jeremy Paucar Meneses** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo IV del trabajo final. <br><br> **Jimena Alessandra Cossio Jimenez** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo V del trabajo final. <br><br> **Jose Manuel Pariona Lucas** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo II del trabajo final. <br><br> | Las entrevistas son una herramienta esencial para el needfinding en el desarrollo de software. Al hablar con los usuarios, hemos aprendido sobre dos nuevos segmentos objetivos definidos y pudimos identificar las necesidades en base a sus experiencias y opiniones. <br> Asimismo, conocer los competidores permiten la evaluación de un panorama más amplio en el desarrollo de la aplicación. |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Alessandro Ramiro Condori Lozano** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo I del trabajo final. <br><br> **Ivan Jeanpierre La Madrid Lozano** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo III del trabajo final. <br><br> **Jeremy Paucar Meneses** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo IV del trabajo final. <br><br> **Jimena Alessandra Cossio Jimenez** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo V del trabajo final. <br><br> **Jose Manuel Pariona Lucas** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo II del trabajo final. | El Lean UX Process es una herramienta valiosa para desarrollar software basado en las necesidades del usuario. Al centrarse en usuarios y realizar iteraciones frecuentes, podremos desarrollar productos de software más útiles, atractivos y eficientes. <br> Gracias a experiencias previas de redacción de historias de usuario, algunas, referentes a funcionalidades básicas, han sido rescatadas y adaptadas de proyectos anteriores, lo que nos permitió seguir puliendo trabajos anteriores. <br> Debido a estas evaluaciones en las entrevistas se logró determinar las necesidades importantes de los usuarios desde una perspectiva ética y profesional. | 
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Alessandro Ramiro Condori Lozano** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo I del trabajo final. <br><br> **Ivan Jeanpierre La Madrid Lozano** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo III del trabajo final. <br><br> **Jeremy Paucar Meneses** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo IV del trabajo final. <br><br> **Jimena Alessandra Cossio Jimenez** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo V del trabajo final. <br><br> **Jose Manuel Pariona Lucas** <br> ***TB1:*** Mi principal avance fue realizar todo el capitulo II del trabajo final.| Las entrevistas son una herramienta esencial para el needfinding en el desarrollo de software. Al hablar con los usuarios, hemos aprendido sobre dos nuevos segmentos objetivos definidos y pudimos identificar las necesidades en base a sus experiencias y opiniones. <br> Asimismo, conocer los competidores permiten la evaluación de un panorama más amplio en el desarrollo de la aplicación. |
 
 ---
 # Contenido
