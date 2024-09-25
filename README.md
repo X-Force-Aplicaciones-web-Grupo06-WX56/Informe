@@ -816,7 +816,7 @@ Link:
 
 ### 4.6.1. Software Architecture Context Diagram
 
-![contextDiagram](https://imgur.com/RMamfio.png)
+![contextDiagram](https://imgur.com/7n3gmMk.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
@@ -824,7 +824,18 @@ Link:
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-![componentDiagram](https://imgur.com/f5d2jo4.png)
+**Payment Component**
+
+![paymentC](https://imgur.com/dn7AxQi.png)
+
+**Authentication Component**
+
+![paymentC](https://imgur.com/hYLHILg.png)
+
+**User Component**
+
+![paymentC](https://imgur.com/nrVoClP.png)
+
 
 ## 4.7. Software Object-Oriented Design
 
