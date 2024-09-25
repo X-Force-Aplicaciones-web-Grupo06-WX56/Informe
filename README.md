@@ -379,7 +379,6 @@ Entre las principales estrategias para superar a nuestros competidores tenemos:
 ●	Expansión del Servicio: Ampliaremos nuestra oferta a nuevas áreas legales y colaboraciones con instituciones educativas para ofrecer prácticas a los abogados, incrementando su experiencia.
 ●	Marketing de Contenidos: Generar contenido de valor que posicione nuestra plataforma como referente en el ámbito legal, incluyendo blogs, webinars, y guías legales gratuitas.
 
-
 ### 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
