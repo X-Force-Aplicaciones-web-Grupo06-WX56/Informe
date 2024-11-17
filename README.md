@@ -20,10 +20,7 @@ Producto: peer-to-peer
 
 Integrantes:
 
-- Alessandro Ramiro Condori Lozano (u20211a118)
 - Ivan Jeanpierre La Madrid Lozano (u202113432)
-- Jeremy Paucar Meneses (U201919449)
-- Jimena Alessandra Cossio Jimenez (U202117854)
 - Jose Manuel Pariona Lucas (U202119257)
 
 Agosto del 2024
@@ -39,14 +36,26 @@ Agosto del 2024
     <tr>
         <td colspan="3">1era</td>
         <td colspan="3">27/08/2024</td>
-        <td colspan="10">Alessandro Ramiro Condori Lozano, Ivan Jeanpierre La Madrid Lozano, Jeremy Paucar Meneses, Jimena Alessandra Cossio Jimenez, Jose Manuel Pariona Lucas</td>
+        <td colspan="10"> Ivan Jeanpierre La Madrid Lozano, Jose Manuel Pariona Lucas</td>
         <td colspan="5">Carátula, CapítuloI, Capítulo II</td>
     </tr>
     <tr>
         <td colspan="3">2da</td>
         <td colspan="3">6/09/2024</td>
-        <td colspan="10">Avellaneda Ramos Carlos Edward, Loli Ramirez Camila Cristina, Condori Lozano Alessandro Ramiro, La Madrid Lozano Ivan Jeanpierre, Pariona Lucas, Jose Manuel</td>
+        <td colspan="10">La Madrid Lozano Ivan Jeanpierre, Pariona Lucas, Jose Manuel</td>
         <td colspan="5">CapítuloIII, Capítulo IV, Capitulo V</td>
+    </tr>
+    <tr>
+        <td colspan="3">3ra</td>
+        <td colspan="3">15/10/2024</td>
+        <td colspan="10">Ivan Jeanpierre La Madrid Lozano, Jose Manuel Pariona Lucas</td>
+        <td colspan="5">CapítuloIII, Capítulo IV, Capitulo V, Frontend</td>
+    </tr>
+      <tr>
+        <td colspan="3">4ra</td>
+        <td colspan="3">17/11/2024</td>
+        <td colspan="10"> Ivan Jeanpierre La Madrid Lozano, Jose Manuel Pariona Lucas</td>
+        <td colspan="5">CapítuloIII, Capítulo IV, Capitulo V, Frontend, Backend</td>
     </tr>
 </table>
 
