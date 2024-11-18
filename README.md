@@ -276,21 +276,10 @@ En resumen, nuestra misión es facilitar la conexión entre clientes y abogados,
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-||Perfil|
-| - | - |
-| <img src="https://i.imgur.com/WJrkFy8.png" alt="Alessandro" width="1000" height="180"> |**Condori Lozano, Alessandro Ramiro** <br> *Ingeniería de Software* <br> Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo.|
 
 ||Perfil|
 | - | - |
 |<img src="https://i.imgur.com/10nzkcz.png" alt="JeanPierre" width="1000" height="180">|**La Madrid Lozano, Ivan Jeanpierre** <br> *Ingeniería de Software* <br> Tengo 20 años. En estos momentos me encuentro estudiando la carrera de Ing. de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios de programación y básicos en desarrollo web. Dicho esto, considero que soy una persona responsable que está en disposición de aportar al grupo.|
-
-||Perfil|
-| - | - |
-|<img src="https://i.imgur.com/A8V9p0K.png" alt="Jeremy" width="1190" height="180">|**Paucar Meneses, Jeremy** <br> *Ingeniería de Software* <br> Tengo 22 años. En la actualidad estoy estudiando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Albergo conocimientos intermedios en algunos lenguajes de programación, tales como C++, JavaScript y Python. Me considero una persona responsable con disposición de apoyar al grupo, también me gustan mucho los retos y así mismo poder cumplirlos.|
-
-||Perfil|
-| - | - |
-|<img src="https://i.imgur.com/ObMgigR.png" alt="Jimena" width="1000" height="180">|**Cossio Jimenez, Jimena Alessandra** <br> *Ingeniería de Software* <br> Tengo 20 años. En estos momentos me encuentro estudiando la carrera de Ing. de Software en la Universidad Peruana de Ciencias Aplicadas. Cuento con conocimientos intermedios de programación y básicos en desarrollo web. Dicho esto, considero que soy una persona responsable que está en disposición de aportar al grupo.|
 
 ||Perfil|
 | - | - |
